@@ -28,5 +28,8 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
-  }
+  },
+  "name": "Fanseekr",
+  "displayName": "Fanseekr",
+  "fbProjectName": "fansere-b5636.appspot.com"
 }

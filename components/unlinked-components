@@ -1,0 +1,8 @@
+- @react-native-community/viewpager (to unlink run: "react-native unlink @react-native-community/viewpager")
+  - @react-native-firebase/analytics (to unlink run: "react-native unlink @react-native-firebase/analytics")
+  - @react-native-firebase/app (to unlink run: "react-native unlink @react-native-firebase/app")
+  - @react-native-firebase/auth (to unlink run: "react-native unlink @react-native-firebase/auth")
+  - @react-native-firebase/firestore (to unlink run: "react-native unlink @react-native-firebase/firestore")
+  - @react-native-firebase/functions (to unlink run: "react-native unlink @react-native-firebase/functions")
+  - @react-native-firebase/messaging (to unlink run: "react-native unlink @react-native-firebase/messaging")
+  - @react-native-firebase/storage (to unlink run: "react-native unlink @react-native-firebase/storage")

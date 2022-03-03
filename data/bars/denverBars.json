@@ -1,0 +1,1466 @@
+[
+    {
+        "name": "Back East Bar and Grill",
+        "address": "1600 Champa St #240, Denver, CO 80202",
+        "phone": "(303) 623-0070",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbuff",
+                "teamLogo": "http://content.sportslogos.net/logos/30/819/thumbs/81942602016.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7465181,
+            "longitude": -104.9936105
+        }
+    },
+    {
+        "name": "Badgers Pub",
+        "address": "76 S Broadway, Denver, CO 80209",
+        "phone": "(303) 733-0488",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "nflgb",
+                "teamLogo": "http://content.sportslogos.net/logos/7/171/thumbs/dcy03myfhffbki5d7il3.gif"
+            },
+            {
+                "teamId": "ncaafwis",
+                "teamLogo": "http://content.sportslogos.net/logos/35/914/thumbs/ydl01hfj8hw4p1mbg1zd.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7151857,
+            "longitude": -104.9874106
+        }
+    },
+    {
+        "name": "Bayou Bob's",
+        "address": "1635 Glenarm Place, Denver, CO 80202",
+        "phone": "(303) 573-6828",
+        "website": "http://bayoubobs.com/",
+        "teams": [
+            {
+                "teamId": "nflno",
+                "teamLogo": "http://content.sportslogos.net/logos/7/175/thumbs/907.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7443727,
+            "longitude": -104.9899963
+        }
+    },
+    {
+        "name": "Bender's Bar and Grill",
+        "address": "10710 Westminster Blvd, Westminster, CO 80020",
+        "phone": "(303) 974-5215",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafneb",
+                "teamLogo": "http://content.sportslogos.net/logos/33/766/thumbs/u5a0z147qunbzxwnec8ef7bkl.gif"
+            },
+            {
+                "teamId": "nflpit",
+                "teamLogo": "http://content.sportslogos.net/logos/7/156/thumbs/970.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.891674,
+            "longitude": -105.068537
+        }
+    },
+    {
+        "name": "BJ's Restaurant & Brewhouse",
+        "address": "1690 28th St, Boulder",
+        "phone": "(303) 440-5200",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcolo",
+                "teamLogo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 40.0177214,
+            "longitude": -105.2578466
+        }
+    },
+    {
+        "name": "Blake Street Tavern",
+        "address": "2301 Blake Street, Denver, CO 80202",
+        "phone": "303.675.0505",
+        "website": "https://www.blakestreettavern.com/sports",
+        "teams": [
+            {
+                "teamId": "nflatl",
+                "teamLogo": "http://content.sportslogos.net/logos/7/173/thumbs/299.gif"
+            },
+            {
+                "teamId": "ncaafasu",
+                "teamLogo": "http://content.sportslogos.net/logos/30/604/thumbs/60465632012.gif"
+            },
+            {
+                "teamId": "ncaafcolo",
+                "teamLogo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif"
+            },
+            {
+                "teamId": "ncaafgt",
+                "teamLogo": "http://content.sportslogos.net/logos/31/690/thumbs/2491.gif"
+            },
+            {
+                "teamId": "ncaafind",
+                "teamLogo": "http://content.sportslogos.net/logos/32/709/thumbs/70922132002.gif"
+            },
+            {
+                "teamId": "nfljax",
+                "teamLogo": "http://content.sportslogos.net/logos/7/159/thumbs/15988562013.gif"
+            },
+            {
+                "teamId": "ncaaflou",
+                "teamLogo": "http://content.sportslogos.net/logos/32/734/thumbs/73446722007.gif"
+            },
+            {
+                "teamId": "ncaaflsu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/723/thumbs/72396272014.gif"
+            },
+            {
+                "teamId": "ncaafmem",
+                "teamLogo": "http://content.sportslogos.net/logos/32/746/thumbs/pep4eclqlq0phflhok70y3u41.gif"
+            },
+            {
+                "teamId": "ncaafmsu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/751/thumbs/w7n08iftauae3h6rhueh.gif"
+            },
+            {
+                "teamId": "nflne",
+                "teamLogo": "http://content.sportslogos.net/logos/7/151/thumbs/y71myf8mlwlk8lbgagh3fd5e0.gif"
+            },
+            {
+                "teamId": "ncaafnc",
+                "teamLogo": "http://content.sportslogos.net/logos/33/775/thumbs/77515392015.gif"
+            },
+            {
+                "teamId": "ncaafniu",
+                "teamLogo": "http://content.sportslogos.net/logos/33/785/thumbs/2886.gif"
+            },
+            {
+                "teamId": "ncaafnw",
+                "teamLogo": "http://content.sportslogos.net/logos/33/787/thumbs/2889.gif"
+            },
+            {
+                "teamId": "ncaafnd",
+                "teamLogo": "http://content.sportslogos.net/logos/33/789/thumbs/h4taj4rqfe7eigc0f2llj59xx.gif"
+            },
+            {
+                "teamId": "ncaafmiss",
+                "teamLogo": "http://content.sportslogos.net/logos/32/754/thumbs/75419761996.gif"
+            },
+            {
+                "teamId": "ncaafrutg",
+                "teamLogo": "http://content.sportslogos.net/logos/33/817/thumbs/j9mxrf2bfzasqkq3by70.gif"
+            },
+            {
+                "teamId": "nflsea",
+                "teamLogo": "http://content.sportslogos.net/logos/7/180/thumbs/pfiobtreaq7j0pzvadktsc6jv.gif"
+            },
+            {
+                "teamId": "ncaafsyr",
+                "teamLogo": "http://content.sportslogos.net/logos/34/859/thumbs/lhf2fxwjfmysj71nzmqw.gif"
+            },
+            {
+                "teamId": "ncaafucf",
+                "teamLogo": "http://content.sportslogos.net/logos/30/635/thumbs/63556372012.gif"
+            },
+            {
+                "teamId": "ncaafusc",
+                "teamLogo": "http://content.sportslogos.net/logos/34/840/thumbs/84098311993.gif"
+            },
+            {
+                "teamId": "ncaafuva",
+                "teamLogo": "http://content.sportslogos.net/logos/35/898/thumbs/7135.gif"
+            },
+            {
+                "teamId": "ncaafuw",
+                "teamLogo": "http://content.sportslogos.net/logos/35/904/thumbs/yookgal4j29r36rx6fz3jug2p.gif"
+            },
+            {
+                "teamId": "nflwas",
+                "teamLogo": "http://content.sportslogos.net/logos/7/168/thumbs/im5xz2q9bjbg44xep08bf5czq.gif"
+            },
+            {
+                "teamId": "ncaabcu",
+                "teamLogo": "http://content.sportslogos.net/logos/7/168/thumbs/im5xz2q9bjbg44xep08bf5czq.gif"
+            },
+            {
+                "teamId": "ncaabgonz",
+                "teamLogo": "http://content.sportslogos.net/logos/7/168/thumbs/im5xz2q9bjbg44xep08bf5czq.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7497421,
+            "longitude": -105.0002052
+        }
+    },
+    {
+        "name": "Brother's Bar & Grill",
+        "address": "1920 Market St, Denver, CO 80202",
+        "phone": "(303) 297-2767",
+        "website": "https://www.brothersbar.com/denver",
+        "teams": [
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            },
+            {
+                "teamId": "ncaafvan",
+                "teamLogo": "http://content.sportslogos.net/logos/35/895/thumbs/oz59klw60uzer5pralxhznrl1.gif"
+            },
+            {
+                "teamId": "ncaaffsu",
+                "teamLogo": "http://content.sportslogos.net/logos/31/679/thumbs/67959842014.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7529278,
+            "longitude": -104.9939723
+        }
+    },
+    {
+        "name": "Bubba's 33",
+        "address": "5807 Constitution Ave, Colorado Springs",
+        "phone": "(719) 576-1223",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcolo",
+                "teamLogo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 38.8720108,
+            "longitude": -104.7197083
+        }
+    },
+    {
+        "name": "C.B. & Potts",
+        "address": "43 Centennial Blvd, Highlands Ranch",
+        "phone": "(720) 344-1200",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcsu",
+                "teamLogo": "http://content.sportslogos.net/logos/30/648/thumbs/64819792015.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.55388,
+            "longitude": -104.96943
+        }
+    },
+    {
+        "name": "Candlelight Tavern",
+        "address": "383 S Pearl St, Denver, CO 80209",
+        "phone": "(303) 778-9530",
+        "website": "http://candlelighttavern.com/",
+        "teams": [
+            {
+                "teamId": "nfldet",
+                "teamLogo": "http://content.sportslogos.net/logos/7/170/thumbs/17013982017.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7096828,
+            "longitude": -104.9804781
+        }
+    },
+    {
+        "name": "Cap City Tavern ",
+        "address": "1247 Bannock St, Denver",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "nflmin",
+                "teamLogo": "http://content.sportslogos.net/logos/7/172/thumbs/17227042013.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7361656,
+            "longitude": -104.9905228
+        }
+    },
+    {
+        "name": "Chopper's Sports Bar and Grill",
+        "address": "80 S. Madison St., Cherry Creek, Denver, CO",
+        "phone": "303.399.4448",
+        "website": "http://www.chopperssportsgrill.com/",
+        "teams": [
+            {
+                "teamId": "nflbal",
+                "teamLogo": "http://content.sportslogos.net/logos/7/153/thumbs/318.gif"
+            },
+            {
+                "teamId": "nfllac",
+                "teamLogo": "http://content.sportslogos.net/logos/7/6446/thumbs/644624152017.gif"
+            },
+            {
+                "teamId": "nflmia",
+                "teamLogo": "http://content.sportslogos.net/logos/7/150/thumbs/15041052013.gif"
+            },
+            {
+                "teamId": "nflnyj",
+                "teamLogo": "http://content.sportslogos.net/logos/7/152/thumbs/v7tehkwthrwefgounvi7znf5k.gif"
+            },
+            {
+                "teamId": "nflten",
+                "teamLogo": "http://content.sportslogos.net/logos/7/160/thumbs/1053.gif"
+            },
+            {
+                "teamId": "ncaaftex",
+                "teamLogo": "http://content.sportslogos.net/logos/34/865/thumbs/5o2wuto6hq2592hhy9e4prm6e.gif"
+            },
+            {
+                "teamId": "ncaafark",
+                "teamLogo": "http://content.sportslogos.net/logos/30/606/thumbs/60692202014.gif"
+            },
+            {
+                "teamId": "ncaafunm",
+                "teamLogo": "http://content.sportslogos.net/logos/33/769/thumbs/ghyb25tvzhogmpe3beytq4wtg.gif"
+            },
+            {
+                "teamId": "ncaafnd",
+                "teamLogo": "http://content.sportslogos.net/logos/33/789/thumbs/h4taj4rqfe7eigc0f2llj59xx.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.714884,
+            "longitude": -104.946094
+        }
+    },
+    {
+        "name": "Clock Tower Grill",
+        "address": "9360 Station St #100, Lone Tree, CO 80124",
+        "phone": "(303) 799-1123",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafksu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/719/thumbs/2508.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.546519,
+            "longitude": -104.870701
+        }
+    },
+    {
+        "name": "Cowboy Lounge",
+        "address": "1941 Market St., Denver Co 80202",
+        "phone": "",
+        "website": "https://www.tavernhg.com/cowboy-lounge/",
+        "teams": [
+            {
+                "teamId": "nfloak",
+                "teamLogo": "http://content.sportslogos.net/logos/7/163/thumbs/g9mgk6x3ge26t44cccm9oq1vl.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.753151,
+            "longitude": -104.994214
+        }
+    },
+    {
+        "name": "Dark Horse",
+        "address": "2922 Baseline Rd, Boulder",
+        "phone": "(303) 442-8162",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcolo",
+                "teamLogo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.9991319,
+            "longitude": -105.2552971
+        }
+    },
+    {
+        "name": "Denver Athletic Club",
+        "address": "1325 Glenarm Pl., Denver CO",
+        "phone": "(303) 534-1211",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcsu",
+                "teamLogo": "http://content.sportslogos.net/logos/30/648/thumbs/64819792015.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.741892,
+            "longitude": -104.993312
+        }
+    },
+    {
+        "name": "Don's Club Tavern",
+        "address": "723 E. 6th Ave., Denver CO",
+        "phone": "(303) 831-0218",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcsu",
+                "teamLogo": "http://content.sportslogos.net/logos/30/648/thumbs/64819792015.gif"
+            },
+            {
+                "teamId": "nflkc",
+                "teamLogo": "http://content.sportslogos.net/logos/7/162/thumbs/857.gif"
+            },
+            {
+                "teamId": "ncaafsc",
+                "teamLogo": "http://content.sportslogos.net/logos/34/834/thumbs/5gje9m4b1shmcd442rkpxkeb8.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7257363,
+            "longitude": -104.9782201
+        }
+    },
+    {
+        "name": "Famous Philly Cheese Steaks & Beer Garden ",
+        "address": "2200 Oneida St, Denver",
+        "phone": "(303) 333-5600",
+        "website": "http://www.famousphillycheesesteak.com/",
+        "teams": [
+            {
+                "teamId": "nflphi",
+                "teamLogo": "http://content.sportslogos.net/logos/7/167/thumbs/960.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.750027,
+            "longitude": -104.9078133
+        }
+    },
+    {
+        "name": "Griffin Tavern",
+        "address": "5062 S Syracuse St, Denver, CO 80237",
+        "phone": "(720) 482-4038",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbama",
+                "teamLogo": "http://content.sportslogos.net/logos/30/597/thumbs/d8nqfhswwqiht1dc4y5p0dmeh.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.6255331,
+            "longitude": -104.8990449
+        }
+    },
+    {
+        "name": "Hayter's & Co",
+        "address": "1920 Blake St, Denver, CO 80202",
+        "phone": "(303) 297-8279",
+        "website": "haytersandco.com",
+        "teams": [
+            {
+                "teamId": "nflchi",
+                "teamLogo": "http://content.sportslogos.net/logos/7/169/thumbs/364.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7535795,
+            "longitude": -104.9950107
+        }
+    },
+    {
+        "name": "Highland Tap & Burger",
+        "address": "2219 W 32nd Ave, Denver, CO 80211",
+        "phone": "(720) 287-4493",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbama",
+                "teamLogo": "http://content.sportslogos.net/logos/30/597/thumbs/d8nqfhswwqiht1dc4y5p0dmeh.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7621927,
+            "longitude": -105.0133239
+        }
+    },
+    {
+        "name": "Highland Tap & Burger",
+        "address": "2219 W 32nd Ave, Denver, CO 80211",
+        "phone": "(720) 287-4493",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafksu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/719/thumbs/2508.gif"
+            },
+            {
+                "teamId": "ncaafsmu",
+                "teamLogo": "http://content.sportslogos.net/logos/34/842/thumbs/2632.gif"
+            },
+            {
+                "teamId": "ncaafumass",
+                "teamLogo": "http://content.sportslogos.net/logos/32/887/thumbs/88759612012.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7621927,
+            "longitude": -105.0133239
+        }
+    },
+    {
+        "name": "Hopper's Sports Grill",
+        "address": "10051 W 48th Ave, Wheat Ridge",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafwvu",
+                "teamLogo": "http://content.sportslogos.net/logos/35/907/thumbs/90726501980.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.783135,
+            "longitude": -105.110059
+        }
+    },
+    {
+        "name": "Icehouse Tavern",
+        "address": "1801 Wynkoop Street, Denver, CO 80202",
+        "phone": "(303) 292-3775",
+        "website": "https://icehouselodo.com/",
+        "teams": [
+            {
+                "teamId": "nflsf",
+                "teamLogo": "http://content.sportslogos.net/logos/7/179/thumbs/17994552009.gif"
+            },
+            {
+                "teamId": "ncaafpur",
+                "teamLogo": "http://content.sportslogos.net/logos/33/809/thumbs/80966442012.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.754368,
+            "longitude": -104.998116
+        }
+    },
+    {
+        "name": "Inga's Alpine Tavern",
+        "address": "5151 Leetsdale Dr, Denver",
+        "phone": "(720) 389-6203",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafisu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/713/thumbs/71346122008.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7085185,
+            "longitude": -104.9036995
+        }
+    },
+    {
+        "name": "Irish Snug",
+        "address": "1201 E Colfax Ave, Denver, CO 80218",
+        "phone": "(303) 839-1394",
+        "website": "irishsnug.com",
+        "teams": [
+            {
+                "teamId": "nflcin",
+                "teamLogo": "http://content.sportslogos.net/logos/7/154/thumbs/403.gif"
+            },
+            {
+                "teamId": "ncaafaub",
+                "teamLogo": "http://content.sportslogos.net/logos/30/610/thumbs/61011451968.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7402235,
+            "longitude": -104.9717962
+        }
+    },
+    {
+        "name": "Jackson's",
+        "address": "1520 20th St, Denver CO",
+        "phone": "(303) 298-7625",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafuf",
+                "teamLogo": "http://content.sportslogos.net/logos/31/675/thumbs/67570762013.gif"
+            },
+            {
+                "teamId": "ncaafariz",
+                "teamLogo": "http://content.sportslogos.net/logos/30/603/thumbs/2416.gif"
+            },
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            },
+            {
+                "teamId": "ncaafou",
+                "teamLogo": "http://content.sportslogos.net/logos/33/797/thumbs/by8dfvb6j89hs5nrvlb1ibx5e.gif"
+            },
+            {
+                "teamId": "nflpit",
+                "teamLogo": "http://content.sportslogos.net/logos/7/156/thumbs/970.gif"
+            },
+            {
+                "teamId": "nfltb",
+                "teamLogo": "http://content.sportslogos.net/logos/7/176/thumbs/17636702014.gif"
+            },
+            {
+                "teamId": "ncaafvt",
+                "teamLogo": "http://content.sportslogos.net/logos/35/901/thumbs/gabem67h4rb7golayyr7qsole.gif"
+            },
+            {
+                "teamId": "ncaafwyo",
+                "teamLogo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7544142,
+            "longitude": -104.9951781
+        }
+    },
+    {
+        "name": "Jefferson Park Pub",
+        "address": "2445 Eliot St, Denver, CO 80211",
+        "phone": "(720) 328-2982",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafiowa",
+                "teamLogo": "http://content.sportslogos.net/logos/32/712/thumbs/iu01050mxpzmj4zqegb0vvhgu.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7529616,
+            "longitude": -105.0237213
+        }
+    },
+    {
+        "name": "Larimeer Beer Hall",
+        "address": "2012 Larimer St, Denver, CO 80205",
+        "phone": "(720) 550-7610",
+        "website": "https://larimerbeerhall.com/",
+        "teams": [
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            },
+            {
+                "teamId": "ncaafpsu",
+                "teamLogo": "http://content.sportslogos.net/logos/33/801/thumbs/6g3sx3a2zxgt5z2vb10g.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7529974,
+            "longitude": -104.9920195
+        }
+    },
+    {
+        "name": "Lazy Dog Erie",
+        "address": "3100 Village Vista Dr, Erie, CO 80516",
+        "phone": "(303) 664-5299",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafucla",
+                "teamLogo": "http://content.sportslogos.net/logos/35/882/thumbs/f14dh4p8ot36v1exxoazhf03a.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 40.062297,
+            "longitude": -105.056578
+        }
+    },
+    {
+        "name": "Lodo's Bar & Grill",
+        "address": "1946 Market St, Denver, 80202",
+        "phone": "(303) 293-8555",
+        "website": "http://www.lodosbarandgrill.com/",
+        "teams": [
+            {
+                "teamId": "nflbuf",
+                "teamLogo": "http://content.sportslogos.net/logos/7/149/thumbs/n0fd1z6xmhigb0eej3323ebwq.gif"
+            },
+            {
+                "teamId": "ncaaffsu",
+                "teamLogo": "http://content.sportslogos.net/logos/31/679/thumbs/67959842014.gif"
+            },
+            {
+                "teamId": "ncaafwake",
+                "teamLogo": "http://content.sportslogos.net/logos/35/903/thumbs/90361392007.gif"
+            },
+            {
+                "teamId": "ncaafbay",
+                "teamLogo": "http://content.sportslogos.net/logos/30/613/thumbs/7369.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.753134,
+            "longitude": -104.9935262
+        }
+    },
+    {
+        "name": "Lodos Bar & Grill - Highlands Ranch",
+        "address": "8545 S Quebec St, Highlands Ranch, CO 80130",
+        "phone": "(303) 346-2930",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafusf",
+                "teamLogo": "http://content.sportslogos.net/logos/34/837/thumbs/l3qg5gf3wu3cdrgvpee4.gif"
+            },
+            {
+                "teamId": "ncaafuga",
+                "teamLogo": "http://content.sportslogos.net/logos/31/687/thumbs/hr85j3g1duiqf59eiep9bvnsd.gif"
+            },
+            {
+                "teamId": "ncaafmich",
+                "teamLogo": "http://content.sportslogos.net/logos/32/750/thumbs/75075012012.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.56268,
+            "longitude": -104.90582
+        }
+    },
+    {
+        "name": "Mellow Mushroom",
+        "address": "1201 16th Street Denver",
+        "phone": "720) 328-9114",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafuga",
+                "teamLogo": "http://content.sportslogos.net/logos/31/687/thumbs/hr85j3g1duiqf59eiep9bvnsd.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.748887,
+            "longitude": -104.9966794
+        }
+    },
+    {
+        "name": "MIle High Station",
+        "address": "2027 W Colfax Ave Denver CO 80204",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7398758,
+            "longitude": -105.0166191
+        }
+    },
+    {
+        "name": "Milwauke Street Tavern",
+        "address": "201 Milwaukee St, Denver CO",
+        "phone": "(303) 320-4710",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafariz",
+                "teamLogo": "http://content.sportslogos.net/logos/30/603/thumbs/2416.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7195482,
+            "longitude": -104.9524028
+        }
+    },
+    {
+        "name": "Occidental Bar",
+        "address": "1950 W 32nd Ave, Denver, CO 80211",
+        "phone": "(720) 536-8318",
+        "website": "http://occidentalbar.com/",
+        "teams": [
+            {
+                "teamId": "nflnyg",
+                "teamLogo": "http://content.sportslogos.net/logos/7/166/thumbs/919.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7619626,
+            "longitude": -105.0109117
+        }
+    },
+    {
+        "name": "Ogden Street South Sports Bar",
+        "address": "103 South Ogden Street, Denver CO",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafwsu",
+                "teamLogo": "http://content.sportslogos.net/logos/35/905/thumbs/2724.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.71452,
+            "longitude": -104.97598
+        }
+    },
+    {
+        "name": "Park Burger Rino",
+        "address": "2615 Walnut St, Denver, CO 80205",
+        "phone": "(720) 381-0126",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafuga",
+                "teamLogo": "http://content.sportslogos.net/logos/31/687/thumbs/hr85j3g1duiqf59eiep9bvnsd.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.759562,
+            "longitude": -104.9860376
+        }
+    },
+    {
+        "name": "Rino Beer Garden",
+        "address": "3800 Walnut St, Denver CO",
+        "phone": "303) 295-3800",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcal",
+                "teamLogo": "http://content.sportslogos.net/logos/30/630/thumbs/7456.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7701793,
+            "longitude": -104.9713822
+        }
+    },
+    {
+        "name": "Shelby's Bar & Grill",
+        "address": "519 18th St, Denver, CO 80202",
+        "phone": "(303) 295-9597",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "nflcar",
+                "teamLogo": "http://content.sportslogos.net/logos/7/174/thumbs/f1wggq2k8ql88fe33jzhw641u.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.746061,
+            "longitude": -104.988243
+        }
+    },
+    {
+        "name": "Sloan's Lake Tap and Burger",
+        "address": "1565 N. Raleigh St. #100, Denver, CO 80204",
+        "phone": "(720) 456-6779",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafkent",
+                "teamLogo": "http://content.sportslogos.net/logos/32/720/thumbs/72036552012.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.741399,
+            "longitude": -105.0417727
+        }
+    },
+    {
+        "name": "Society Sports & Spirits",
+        "address": "1434 Blake Street, Denver, Colorado",
+        "phone": "(720) 465-9830",
+        "website": "http://www.societydenver.com/rated-1-top-10-houston-texan-sports-bars/",
+        "teams": [
+            {
+                "teamId": "nflpit",
+                "teamLogo": "http://content.sportslogos.net/logos/7/156/thumbs/970.gif"
+            },
+            {
+                "teamId": "nflhou",
+                "teamLogo": "http://content.sportslogos.net/logos/7/157/thumbs/570.gif"
+            },
+            {
+                "teamId": "ncaafark",
+                "teamLogo": "http://content.sportslogos.net/logos/30/606/thumbs/60692202014.gif"
+            },
+            {
+                "teamId": "ncaafhou",
+                "teamLogo": "http://content.sportslogos.net/logos/31/700/thumbs/70063032012.gif"
+            },
+            {
+                "teamId": "ncaafisu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/713/thumbs/71346122008.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7490717,
+            "longitude": -105.0008228
+        }
+    },
+    {
+        "name": "Sports Column",
+        "address": "1930 Blake Street, Denver, CO 80202",
+        "phone": "303.296.1930",
+        "website": "https://www.denversportscolumn.com/",
+        "teams": [
+            {
+                "teamId": "nflari",
+                "teamLogo": "http://content.sportslogos.net/logos/7/177/thumbs/kwth8f1cfa2sch5xhjjfaof90.gif"
+            },
+            {
+                "teamId": "ncaafarmy",
+                "teamLogo": "http://content.sportslogos.net/logos/30/609/thumbs/60961542015.gif"
+            },
+            {
+                "teamId": "nflind",
+                "teamLogo": "http://content.sportslogos.net/logos/7/158/thumbs/593.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7536498,
+            "longitude": -104.9949186
+        }
+    },
+    {
+        "name": "Spot Bar & Grill",
+        "address": "98 S. Pennsylvania St., Denver, CO 80209",
+        "phone": " 303-733-1299",
+        "website": "https://spotbarandgrill.com/",
+        "teams": [
+            {
+                "teamId": "nfldal",
+                "teamLogo": "http://content.sportslogos.net/logos/7/165/thumbs/406.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.714853,
+            "longitude": -104.981381
+        }
+    },
+    {
+        "name": "Stoney's Bar and Grill",
+        "address": "1111 Lincoln St., Denver CO 80203",
+        "phone": "(303) 830-6839",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcolo",
+                "teamLogo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif"
+            },
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            },
+            {
+                "teamId": "nfllar",
+                "teamLogo": "http://content.sportslogos.net/logos/7/5941/thumbs/594179532017.gif"
+            },
+            {
+                "teamId": "nflcle",
+                "teamLogo": "http://content.sportslogos.net/logos/7/155/thumbs/15578552015.gif"
+            },
+            {
+                "teamId": "ncaafduke",
+                "teamLogo": "http://content.sportslogos.net/logos/31/663/thumbs/66395011978.gif"
+            },
+            {
+                "teamId": "ncaafku",
+                "teamLogo": "http://content.sportslogos.net/logos/32/718/thumbs/t96oee4doe8n2oxaft7f.gif"
+            },
+            {
+                "teamId": "ncaaflsu",
+                "teamLogo": "http://content.sportslogos.net/logos/32/723/thumbs/72396272014.gif"
+            },
+            {
+                "teamId": "ncaafohio",
+                "teamLogo": "http://content.sportslogos.net/logos/33/792/thumbs/4688.gif"
+            },
+            {
+                "teamId": "ncaafou",
+                "teamLogo": "http://content.sportslogos.net/logos/33/793/thumbs/f9hclkzyftlynvgb1wgf.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7342327,
+            "longitude": -104.9863534
+        }
+    },
+    {
+        "name": "Stoney's Uptown Joint",
+        "address": "1035 E 17th Ave, Denver, CO 80218",
+        "phone": "(720) 485-5503",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafapp",
+                "teamLogo": "http://content.sportslogos.net/logos/30/602/thumbs/60213682014.gif"
+            },
+            {
+                "teamId": "ncaafbsu",
+                "teamLogo": "http://content.sportslogos.net/logos/30/617/thumbs/61736902013.gif"
+            },
+            {
+                "teamId": "ncaafuk",
+                "teamLogo": "http://content.sportslogos.net/logos/32/721/thumbs/72178322016.gif"
+            },
+            {
+                "teamId": "ncaafumd",
+                "teamLogo": "http://content.sportslogos.net/logos/32/743/thumbs/74354442012.gif"
+            },
+            {
+                "teamId": "ncaaftuln",
+                "teamLogo": "http://content.sportslogos.net/logos/34/877/thumbs/87736922014.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.74341,
+            "longitude": -104.9736067
+        }
+    },
+    {
+        "name": "Swanky's",
+        "address": "1938 Blake St, Denver, Colorado 80202",
+        "phone": "(303) 297-2399",
+        "website": "http://swankys.com/",
+        "teams": [
+            {
+                "teamId": "nflgb",
+                "teamLogo": "http://content.sportslogos.net/logos/7/171/thumbs/dcy03myfhffbki5d7il3.gif"
+            },
+            {
+                "teamId": "ncaafwis",
+                "teamLogo": "http://content.sportslogos.net/logos/35/914/thumbs/ydl01hfj8hw4p1mbg1zd.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7537791,
+            "longitude": -104.9947459
+        }
+    },
+    {
+        "name": "Tap Fourteen Ballpark",
+        "address": "1920 Blake Street , Denver, CO 80202",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafosu",
+                "teamLogo": "http://content.sportslogos.net/logos/33/791/thumbs/79176452013.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.75356,
+            "longitude": -104.99494
+        }
+    },
+    {
+        "name": "Tavern Downtown Denver",
+        "address": "1949 Market St, Denver, CO 80202",
+        "phone": "(303) 299-0100",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbay",
+                "teamLogo": "http://content.sportslogos.net/logos/30/613/thumbs/7369.gif"
+            },
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            },
+            {
+                "teamId": "ncaafmia",
+                "teamLogo": "http://content.sportslogos.net/logos/32/748/thumbs/2848.gif"
+            },
+            {
+                "teamId": "nflsf",
+                "teamLogo": "http://content.sportslogos.net/logos/7/179/thumbs/17994552009.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7535138,
+            "longitude": -104.9939047
+        }
+    },
+    {
+        "name": "Tavern Platt Park",
+        "address": "1475 S Pearl St, Denver, CO 80210",
+        "phone": "303-226-1776",
+        "website": "https://www.tavernhg.com/platt-park",
+        "teams": [
+            {
+                "teamId": "nflnyg",
+                "teamLogo": "http://content.sportslogos.net/logos/7/166/thumbs/919.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.6898907,
+            "longitude": -104.9805486
+        }
+    },
+    {
+        "name": "Tavern Tech",
+        "address": "5336 DTC Blvd, Greenwood Village, CO 80111",
+        "phone": "(303) 221-4660",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcolo",
+                "teamLogo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.618291,
+            "longitude": -104.8883825
+        }
+    },
+    {
+        "name": "Tavern Uptown",
+        "address": "538 E. 17th Ave., Denver, CO 80203",
+        "phone": "",
+        "website": "https://www.tavernhg.com/uptown",
+        "teams": [
+            {
+                "teamId": "nflnyg",
+                "teamLogo": "http://content.sportslogos.net/logos/7/166/thumbs/919.gif"
+            },
+            {
+                "teamId": "ncaafpit",
+                "teamLogo": "http://content.sportslogos.net/logos/33/803/thumbs/80318662016.gif"
+            },
+            {
+                "teamId": "ncaaftenn",
+                "teamLogo": "http://content.sportslogos.net/logos/34/861/thumbs/86166262015.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7431038,
+            "longitude": -104.9800618
+        }
+    },
+    {
+        "name": "The Cherry Cricket",
+        "address": "2641 E 2nd Ave, Denver, CO 80206",
+        "phone": "(303) 322-7666",
+        "website": "https://www.cherrycricket.com/",
+        "teams": [
+            {
+                "teamId": "nflden",
+                "teamLogo": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7193455,
+            "longitude": -104.9808828
+        }
+    },
+    {
+        "name": "The College Inn",
+        "address": "4400 E 8th Ave, Denver, CO 80220",
+        "phone": "(303) 329-9532",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbama",
+                "teamLogo": "http://content.sportslogos.net/logos/30/597/thumbs/d8nqfhswwqiht1dc4y5p0dmeh.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7291076,
+            "longitude": -104.935823
+        }
+    },
+    {
+        "name": "The Cowboy Lounge @ The Tavern Downtown",
+        "address": "1941 Market St, Denver",
+        "phone": "(303) 226-1570",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcle",
+                "teamLogo": "http://content.sportslogos.net/logos/30/643/thumbs/2451.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.753151,
+            "longitude": -104.994214
+        }
+    },
+    {
+        "name": "The Dam Grille",
+        "address": "8000 E Quincy Ave, Denver",
+        "phone": "(303) 779-0805",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcsu",
+                "teamLogo": "http://content.sportslogos.net/logos/30/648/thumbs/64819792015.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.6374217,
+            "longitude": -104.8978004
+        }
+    },
+    {
+        "name": "The Fainting Goat",
+        "address": "846 Broadway, Denver, CO 80203",
+        "phone": "(303) 945-2323",
+        "website": "https://thefaintinggoatdenver.com/",
+        "teams": [
+            {
+                "teamId": "nflatl",
+                "teamLogo": "http://content.sportslogos.net/logos/7/173/thumbs/299.gif"
+            },
+            {
+                "teamId": "ncaaftamu",
+                "teamLogo": "http://content.sportslogos.net/logos/34/866/thumbs/86674172007.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7299669,
+            "longitude": -104.9872245
+        }
+    },
+    {
+        "name": "The Whittier Pub",
+        "address": "2000 E 28th Ave, Denver, CO 80205",
+        "phone": "(720) 638-7397",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbc",
+                "teamLogo": "http://content.sportslogos.net/logos/30/618/thumbs/x17r48dtcnhsyveh1iyf7rzqc.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7568439,
+            "longitude": -104.9632603
+        }
+    },
+    {
+        "name": "Thirsty Lion Gastropub & Grill",
+        "address": "1605 Wynkoop St., Denver, CO\n",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafncst",
+                "teamLogo": "http://content.sportslogos.net/logos/33/777/thumbs/77759072006.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.75213,
+            "longitude": -105.00092
+        }
+    },
+    {
+        "name": "Three Dogs Tavern",
+        "address": "3390 W 32nd Ave, Denver, CO 80211",
+        "phone": "(720) 854-1277",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafbama",
+                "teamLogo": "http://content.sportslogos.net/logos/30/597/thumbs/d8nqfhswwqiht1dc4y5p0dmeh.gif"
+            },
+            {
+                "teamId": "ncaafminn",
+                "teamLogo": "http://content.sportslogos.net/logos/32/753/thumbs/r8cdw98hpgz0sevha7ejthble.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7617715,
+            "longitude": -105.0321448
+        }
+    },
+    {
+        "name": "Ursula Brewery",
+        "address": "2101 N Ursula St Unit 10, Aurora, Colorado 80045",
+        "phone": "720) 324-8529",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaaftol",
+                "teamLogo": "http://content.sportslogos.net/logos/34/874/thumbs/87490502017.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.74869,
+            "longitude": -104.83839
+        }
+    },
+    {
+        "name": "ViewHouse Ballpark",
+        "address": "2015 Market Street, Denver, CO",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaaftlsa",
+                "teamLogo": "http://content.sportslogos.net/logos/34/878/thumbs/2669.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.75415,
+            "longitude": -104.993294
+        }
+    },
+    {
+        "name": "Viewhouse Centennial",
+        "address": "7101 S. Clinton Street, Centennial, CO",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafutah",
+                "teamLogo": "http://content.sportslogos.net/logos/35/892/thumbs/f59mntuxy6z31v0gapgueoyg2.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.58737,
+            "longitude": -104.87951
+        }
+    },
+    {
+        "name": "Wash Park Sports Alley",
+        "address": "266B S Downing St, Denver  CO 80209",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafstan",
+                "teamLogo": "http://content.sportslogos.net/logos/34/854/thumbs/85448032014.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.71169,
+            "longitude": -104.97306
+        }
+    },
+    {
+        "name": "Whiskey Bar",
+        "address": "2203 Larimer St, Denver, CO 80205",
+        "phone": "",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafmiz",
+                "teamLogo": "http://content.sportslogos.net/logos/32/757/thumbs/70yox0z4pkkwwedhxgo92kp9f.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.760429,
+            "longitude": -104.98291
+        }
+    },
+    {
+        "name": "Whiskey Tango Foxtrot",
+        "address": "2907 Huron St, Denver",
+        "phone": "(303) 226-1540",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafcal",
+                "teamLogo": "http://content.sportslogos.net/logos/30/630/thumbs/7456.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7585557,
+            "longitude": -104.997594
+        }
+    },
+    {
+        "name": "Winston's Pub and Grill",
+        "address": "8101 E Belleview Avenue",
+        "phone": "(303) 953-5510",
+        "website": "http://www.winstonspubandgrill.com/",
+        "teams": [
+            {
+                "teamId": "nflcle",
+                "teamLogo": "http://content.sportslogos.net/logos/7/155/thumbs/15578552015.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.6257767,
+            "longitude": -104.8938478
+        }
+    },
+    {
+        "name": "Wrigley's Chicago Bar & Grill",
+        "address": "18200 W Colfax Ave, Denver CO",
+        "phone": "(303) 277-1551",
+        "website": "wrigleyschicagobar.net",
+        "teams": [
+            {
+                "teamId": "nflchi",
+                "teamLogo": "http://content.sportslogos.net/logos/7/169/thumbs/364.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7402492,
+            "longitude": -105.0058035
+        }
+    },
+    {
+        "name": "Wyman's No 5",
+        "address": "2033 E 13th Ave, Denver, CO 80206",
+        "phone": "(303) 996-0842",
+        "website": "wymansno5.com",
+        "teams": [
+            {
+                "teamId": "nflchi",
+                "teamLogo": "http://content.sportslogos.net/logos/7/169/thumbs/364.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.7369001,
+            "longitude": -104.9630235
+        }
+    },
+    {
+        "name": "Yazoo BBQ Company",
+        "address": "2150 Broadway, Denver, Colorado 80205",
+        "phone": "(303) 296-3334",
+        "website": "",
+        "teams": [
+            {
+                "teamId": "ncaafmsst",
+                "teamLogo": "http://content.sportslogos.net/logos/32/755/thumbs/91xsfe9nvvedeghyqi4sx161k.gif"
+            }
+        ],
+        "coordinate": {
+            "latitude": 39.752016,
+            "longitude": -104.987147
+        }
+    }
+]
+// _bars.forEach(e => {
+//     firestore().collection('bars').doc('DEN').collection('markers').add({
+//         "name": e.name,
+//         "address": e.address,
+//         "phone": e.phone,
+//         "website": e.website,
+//         "teams": e.teams,
+//         "coordinate": e.coordinate
+//     })
+//         .then(function () {
+//             console.log("Document successfully written!");
+//         })
+//         .catch(function (error) {
+//             console.error("Error writing document: ", error);
+//         });
+// })

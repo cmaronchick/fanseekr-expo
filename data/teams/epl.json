@@ -1,0 +1,122 @@
+[
+    {
+        "team": "Arsenal F.C.",
+        "id": "eplars",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/340px-Arsenal_FC.svg.png"
+    },
+    {
+        "team": "Aston Villa F.C.",
+        "id": "eplast",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/300px-Aston_Villa_FC_crest_%282016%29.svg.png"
+    },
+    {
+        "team": "A.F.C. Bournemouth",
+        "id": "eplbou",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/340px-AFC_Bournemouth_%282013%29.svg.png"
+    },
+    {
+        "team": "Brighton F.C.",
+        "id": "eplbri",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/400px-Brighton_%26_Hove_Albion_logo.svg.png"
+    },
+    {
+        "team": "Burnley",
+        "id": "eplbur",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/360px-Burnley_F.C._Logo.svg.png"
+    },
+    {
+        "team": "Chelsea F.C.",
+        "id": "eplche",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/360px-Chelsea_FC.svg.png"
+    },
+    {
+        "team": "Crystal Palace F.C.",
+        "id": "eplcry",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/340px-Crystal_Palace_FC_logo.svg.png"
+    },
+    {
+        "team": "Everton F.C.",
+        "id": "epleve",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/360px-Everton_FC_logo.svg.png"
+    },
+    {
+        "team": "Leicester City F.C.",
+        "id": "epllei",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/360px-Leicester_City_crest.svg.png"
+    },
+    {
+        "team": "Liverpool F.C.",
+        "id": "eplliv",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/360px-Liverpool_FC.svg.png"
+    },
+    {
+        "team": "Manchester City F.C.",
+        "id": "eplmc",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/360px-Manchester_City_FC_badge.svg.png"
+    },
+    {
+        "team": "Manchester United F.C.",
+        "id": "eplmu",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/360px-Manchester_United_FC_crest.svg.png"
+    },
+    {
+        "team": "Newcastle United F.C.",
+        "id": "epnu",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/400px-Newcastle_United_Logo.svg.png"
+    },
+    {
+        "team": "Norwich City F.C.",
+        "id": "eplnor",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Norwich_City.svg/300px-Norwich_City.svg.png"
+    },
+    {
+        "team": "Sheffield United F.C.",
+        "id": "eplshe",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/360px-Sheffield_United_FC_logo.svg.png"
+    },
+    {
+        "team": "Southampton F.C.",
+        "id": "eplham",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/360px-FC_Southampton.svg.png"
+    },
+    {
+        "team": "Tottenham Hotspur F.C.",
+        "id": "epltot",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/220px-Tottenham_Hotspur.svg.png"
+    },
+    {
+        "team": "Watford F.C.",
+        "id": "eplwat",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/380px-Watford.svg.png"
+    },
+    {
+        "team": "West Ham United F.C.",
+        "id": "eplwhu",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/370px-West_Ham_United_FC_logo.svg.png"
+    },
+    {
+        "team": "Wolverhampton Wanderers F.C.",
+        "id": "eplwol",
+        "league": "EPL",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/400px-Wolverhampton_Wanderers.svg.png"
+    }
+]

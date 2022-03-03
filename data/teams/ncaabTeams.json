@@ -1,0 +1,838 @@
+[
+    {
+        "name": "Air Force",
+        "logo": "http://content.sportslogos.net/logos/30/595/thumbs/3pr1czgf0mqhfdqfv1mqrvfiq.gif",
+        "id": "ncaabafa",
+        "api_id": "AF"
+    },
+    {
+        "name": "Akron",
+        "logo": "http://content.sportslogos.net/logos/30/596/thumbs/59688302014.gif",
+        "id": "ncaabakr",
+        "api_id": "AKR"
+    },
+    {
+        "name": "Alabama",
+        "logo": "http://content.sportslogos.net/logos/30/597/thumbs/d8nqfhswwqiht1dc4y5p0dmeh.gif",
+        "id": "ncaabbama",
+        "api_id": "BAMA"
+    },
+    {
+        "name": "Appalachian State",
+        "logo": "http://content.sportslogos.net/logos/30/602/thumbs/60213682014.gif",
+        "id": "ncaabapp",
+        "api_id": "APP"
+    },
+    {
+        "name": "Arizona",
+        "logo": "http://content.sportslogos.net/logos/30/603/thumbs/2416.gif",
+        "id": "ncaabariz",
+        "api_id": "ARI"
+    },
+    {
+        "name": "Arizona State",
+        "logo": "http://content.sportslogos.net/logos/30/604/thumbs/60465632012.gif",
+        "id": "ncaabasu",
+        "api_id": "ASU"
+    },
+    {
+        "name": "Arkansas",
+        "logo": "http://content.sportslogos.net/logos/30/606/thumbs/60692202014.gif",
+        "id": "ncaabark",
+        "api_id": "ARK"
+    },
+    {
+        "name": "Arkansas State",
+        "logo": "http://content.sportslogos.net/logos/30/605/thumbs/60588462008.gif",
+        "id": "ncaabarst",
+        "api_id": "ARKS"
+    },
+    {
+        "name": "Army",
+        "logo": "http://content.sportslogos.net/logos/30/609/thumbs/60961542015.gif",
+        "id": "ncaabarmy",
+        "api_id": "ARM"
+    },
+    {
+        "name": "Auburn",
+        "logo": "http://content.sportslogos.net/logos/30/610/thumbs/61011451968.gif",
+        "id": "ncaabaub",
+        "api_id": "AUB"
+    },
+    {
+        "name": "Ball State",
+        "logo": "http://content.sportslogos.net/logos/30/612/thumbs/61273522015.gif",
+        "id": "ncaabball",
+        "api_id": "BALL"
+    },
+    {
+        "name": "Baylor",
+        "logo": "http://content.sportslogos.net/logos/30/613/thumbs/7369.gif",
+        "id": "ncaabbay",
+        "api_id": "BAY"
+    },
+    {
+        "name": "Boise State",
+        "logo": "http://content.sportslogos.net/logos/30/617/thumbs/61736902013.gif",
+        "id": "ncaabbsu",
+        "api_id": "BOISE"
+    },
+    {
+        "name": "Boston College",
+        "logo": "http://content.sportslogos.net/logos/30/618/thumbs/x17r48dtcnhsyveh1iyf7rzqc.gif",
+        "id": "ncaabbc",
+        "api_id": "BC"
+    },
+    {
+        "name": "Bowling Green",
+        "logo": "http://content.sportslogos.net/logos/30/620/thumbs/62081602016.gif",
+        "id": "ncaabbgsu",
+        "api_id": "BGN"
+    },
+    {
+        "name": "Buffalo",
+        "logo": "http://content.sportslogos.net/logos/30/819/thumbs/81942602016.gif",
+        "id": "ncaabbuff",
+        "api_id": "BUF"
+    },
+    {
+        "name": "BYU",
+        "logo": "http://content.sportslogos.net/logos/30/622/thumbs/t2k7w98wp67rswqopr1pra06h.gif",
+        "id": "ncaabbyu",
+        "api_id": "BYU"
+    },
+    {
+        "name": "California",
+        "logo": "http://content.sportslogos.net/logos/30/630/thumbs/7456.gif",
+        "id": "ncaabcal",
+        "api_id": "CAL"
+    },
+    {
+        "name": "Central Michigan",
+        "logo": "http://content.sportslogos.net/logos/30/636/thumbs/6843.gif",
+        "id": "ncaabcmu",
+        "api_id": "CMC"
+    },
+    {
+        "name": "Charlotte",
+        "logo": "http://content.sportslogos.net/logos/30/639/thumbs/2447.gif",
+        "id": "ncaabchar",
+        "api_id": "CHA"
+    },
+    {
+        "name": "Cincinnati",
+        "logo": "http://content.sportslogos.net/logos/30/642/thumbs/7482.gif",
+        "id": "ncaabcin",
+        "api_id": "CIN"
+    },
+    {
+        "name": "Clemson",
+        "logo": "http://content.sportslogos.net/logos/30/643/thumbs/2451.gif",
+        "id": "ncaabcle",
+        "api_id": "CLE"
+    },
+    {
+        "name": "Colorado",
+        "logo": "http://content.sportslogos.net/logos/30/647/thumbs/7489.gif",
+        "id": "ncaabcolo",
+        "api_id": "COL"
+    },
+    {
+        "name": "Colorado State",
+        "logo": "http://content.sportslogos.net/logos/30/648/thumbs/64819792015.gif",
+        "id": "ncaabcsu",
+        "api_id": "CSU"
+    },
+    {
+        "name": "Connecticut",
+        "logo": "http://content.sportslogos.net/logos/35/884/thumbs/88491222013.gif",
+        "id": "ncaabuconn",
+        "api_id": "UCONN"
+    },
+    {
+        "name": "East Carolina",
+        "logo": "http://content.sportslogos.net/logos/31/665/thumbs/66580462014.gif",
+        "id": "ncaabecu",
+        "api_id": "ECU"
+    },
+    {
+        "name": "Eastern Michigan",
+        "logo": "http://content.sportslogos.net/logos/31/669/thumbs/66988442013.gif",
+        "id": "ncaabemu",
+        "api_id": "EMC"
+    },
+    {
+        "name": "FIU",
+        "logo": "http://content.sportslogos.net/logos/31/678/thumbs/67854492010.gif",
+        "id": "ncaabfiu",
+        "api_id": "FIU"
+    },
+    {
+        "name": "Duke",
+        "logo": "http://content.sportslogos.net/logos/31/663/thumbs/66395011978.gif",
+        "id": "ncaabduke",
+        "api_id": "DUK"
+    },
+    {
+        "name": "Florida",
+        "logo": "http://content.sportslogos.net/logos/31/675/thumbs/67570762013.gif",
+        "id": "ncaabuf",
+        "api_id": "FLA"
+    },
+    {
+        "name": "Florida Atlantic",
+        "logo": "http://content.sportslogos.net/logos/31/677/thumbs/vviv38wr7tk9nq4k2liou3r1e.gif",
+        "id": "ncaabfau",
+        "api_id": "FAU"
+    },
+    {
+        "name": "Florida State",
+        "logo": "http://content.sportslogos.net/logos/31/679/thumbs/67959842014.gif",
+        "id": "ncaabfsu",
+        "api_id": "FSU"
+    },
+    {
+        "name": "Fresno State",
+        "logo": "http://content.sportslogos.net/logos/31/681/thumbs/68177952006.gif",
+        "id": "ncaabfres",
+        "api_id": "FRE"
+    },
+    {
+        "name": "Georgia",
+        "logo": "http://content.sportslogos.net/logos/31/687/thumbs/hr85j3g1duiqf59eiep9bvnsd.gif",
+        "id": "ncaabuga",
+        "api_id": "UGA"
+    },
+    {
+        "name": "Georgia Southern",
+        "logo": "http://content.sportslogos.net/logos/31/688/thumbs/68879472010.gif",
+        "id": "ncaabgaso",
+        "api_id": "GSO"
+    },
+    {
+        "name": "Georgia State",
+        "logo": "http://content.sportslogos.net/logos/31/689/thumbs/68949972014.gif",
+        "id": "ncaabgast",
+        "api_id": "GST"
+    },
+    {
+        "name": "Georgia Tech",
+        "logo": "http://content.sportslogos.net/logos/31/690/thumbs/2491.gif",
+        "id": "ncaabgt",
+        "api_id": "GT"
+    },
+    {
+        "name": "Hawai'i",
+        "logo": "http://content.sportslogos.net/logos/31/696/thumbs/2494.gif",
+        "id": "ncaabhaw",
+        "api_id": "HAW"
+    },
+    {
+        "name": "Houston",
+        "logo": "http://content.sportslogos.net/logos/31/700/thumbs/70063032012.gif",
+        "id": "ncaabhou",
+        "api_id": "HOU"
+    },
+    {
+        "name": "Idaho",
+        "logo": "http://content.sportslogos.net/logos/32/704/thumbs/70458472004.gif",
+        "id": "ncaabidho",
+        "api_id": "IDHO"
+    },
+    {
+        "name": "Illinois",
+        "logo": "http://content.sportslogos.net/logos/32/706/thumbs/70683592014.gif",
+        "id": "ncaabill",
+        "api_id": "ILL"
+    },
+    {
+        "name": "Indiana",
+        "logo": "http://content.sportslogos.net/logos/32/709/thumbs/70922132002.gif",
+        "id": "ncaabind",
+        "api_id": "IU"
+    },
+    {
+        "name": "Iowa",
+        "logo": "http://content.sportslogos.net/logos/32/712/thumbs/iu01050mxpzmj4zqegb0vvhgu.gif",
+        "id": "ncaabiowa",
+        "api_id": "IOW"
+    },
+    {
+        "name": "Iowa State",
+        "logo": "http://content.sportslogos.net/logos/32/713/thumbs/71346122008.gif",
+        "id": "ncaabisu",
+        "api_id": "ISU"
+    },
+    {
+        "name": "Kansas",
+        "logo": "http://content.sportslogos.net/logos/32/718/thumbs/t96oee4doe8n2oxaft7f.gif",
+        "id": "ncaabku",
+        "api_id": "KAN"
+    },
+    {
+        "name": "Kansas State",
+        "logo": "http://content.sportslogos.net/logos/32/719/thumbs/2508.gif",
+        "id": "ncaabksu",
+        "api_id": "KST"
+    },
+    {
+        "name": "Kent State",
+        "logo": "http://content.sportslogos.net/logos/32/720/thumbs/72036552012.gif",
+        "id": "ncaabkent",
+        "api_id": "KNT"
+    },
+    {
+        "name": "Kentucky",
+        "logo": "http://content.sportslogos.net/logos/32/721/thumbs/72178322016.gif",
+        "id": "ncaabuk",
+        "api_id": "KEN"
+    },
+    {
+        "name": "Louisiana Tech",
+        "logo": "http://content.sportslogos.net/logos/32/731/thumbs/eeb5y75gih97igg7lxvph7v4o.gif",
+        "id": "ncaablt",
+        "api_id": "LT"
+    },
+    {
+        "name": "Louisiana-Lafayette",
+        "logo": "http://content.sportslogos.net/logos/32/732/thumbs/2511.gif",
+        "id": "ncaabull",
+        "api_id": "ULL"
+    },
+    {
+        "name": "Louisiana-Monroe",
+        "logo": "http://content.sportslogos.net/logos/32/733/thumbs/73372142015.gif",
+        "id": "ncaabulm",
+        "api_id": "ULM"
+    },
+    {
+        "name": "Louisville",
+        "logo": "http://content.sportslogos.net/logos/32/734/thumbs/73446722007.gif",
+        "id": "ncaablou",
+        "api_id": "LOU"
+    },
+    {
+        "name": "LSU",
+        "logo": "http://content.sportslogos.net/logos/32/723/thumbs/72396272014.gif",
+        "id": "ncaablsu",
+        "api_id": "LSU"
+    },
+    {
+        "name": "Marshall",
+        "logo": "http://content.sportslogos.net/logos/32/742/thumbs/2529.gif",
+        "id": "ncaabmrsh",
+        "api_id": "MSH"
+    },
+    {
+        "name": "Maryland",
+        "logo": "http://content.sportslogos.net/logos/32/743/thumbs/74354442012.gif",
+        "id": "ncaabumd",
+        "api_id": "MAR"
+    },
+    {
+        "name": "Memphis",
+        "logo": "http://content.sportslogos.net/logos/32/746/thumbs/pep4eclqlq0phflhok70y3u41.gif",
+        "id": "ncaabmem",
+        "api_id": "MEM"
+    },
+    {
+        "name": "Miami (FL)",
+        "logo": "http://content.sportslogos.net/logos/32/748/thumbs/2848.gif",
+        "id": "ncaabmia",
+        "api_id": "MFL"
+    },
+    {
+        "name": "Miami (OH)",
+        "logo": "http://content.sportslogos.net/logos/32/749/thumbs/74994712014.gif",
+        "id": "ncaabmoh",
+        "api_id": "MOH"
+    },
+    {
+        "name": "Michigan",
+        "logo": "http://content.sportslogos.net/logos/32/750/thumbs/75075012012.gif",
+        "id": "ncaabmich",
+        "api_id": "MICH"
+    },
+    {
+        "name": "Michigan State",
+        "logo": "http://content.sportslogos.net/logos/32/751/thumbs/w7n08iftauae3h6rhueh.gif",
+        "id": "ncaabmsu",
+        "api_id": "MSU"
+    },
+    {
+        "name": "Middle Tennessee",
+        "logo": "http://content.sportslogos.net/logos/32/752/thumbs/75235561998.gif",
+        "id": "ncaabmtsu",
+        "api_id": "MTS"
+    },
+    {
+        "name": "Minnesota",
+        "logo": "http://content.sportslogos.net/logos/32/753/thumbs/r8cdw98hpgz0sevha7ejthble.gif",
+        "id": "ncaabminn",
+        "api_id": "MIN"
+    },
+    {
+        "name": "Mississippi State",
+        "logo": "http://content.sportslogos.net/logos/32/755/thumbs/91xsfe9nvvedeghyqi4sx161k.gif",
+        "id": "ncaabmsst",
+        "api_id": "MSST"
+    },
+    {
+        "name": "Missouri",
+        "logo": "http://content.sportslogos.net/logos/32/757/thumbs/70yox0z4pkkwwedhxgo92kp9f.gif",
+        "id": "ncaabmiz",
+        "api_id": "MIZ"
+    },
+    {
+        "name": "Navy",
+        "logo": "http://content.sportslogos.net/logos/33/765/thumbs/udqt7nirahbtdehp0gn5pi0f6.gif",
+        "id": "ncaabnavy",
+        "api_id": "NAV"
+    },
+    {
+        "name": "NC State",
+        "logo": "http://content.sportslogos.net/logos/33/777/thumbs/77759072006.gif",
+        "id": "ncaabncst",
+        "api_id": "NCST"
+    },
+    {
+        "name": "Nebraska",
+        "logo": "http://content.sportslogos.net/logos/33/766/thumbs/u5a0z147qunbzxwnec8ef7bkl.gif",
+        "id": "ncaabneb",
+        "api_id": "NEB"
+    },
+    {
+        "name": "Nevada",
+        "logo": "http://content.sportslogos.net/logos/33/767/thumbs/76753092008.gif",
+        "id": "ncaabnev",
+        "api_id": "NEV"
+    },
+    {
+        "name": "New Mexico",
+        "logo": "http://content.sportslogos.net/logos/33/769/thumbs/ghyb25tvzhogmpe3beytq4wtg.gif",
+        "id": "ncaabunm",
+        "api_id": "NM"
+    },
+    {
+        "name": "New Mexico State",
+        "logo": "http://content.sportslogos.net/logos/33/770/thumbs/77055192007.gif",
+        "id": "ncaabnmsu",
+        "api_id": "NMS"
+    },
+    {
+        "name": "North Carolina",
+        "logo": "http://content.sportslogos.net/logos/33/775/thumbs/77515392015.gif",
+        "id": "ncaabnc",
+        "api_id": "NC"
+    },
+    {
+        "name": "North Texas",
+        "logo": "http://content.sportslogos.net/logos/33/782/thumbs/78267462005.gif",
+        "id": "ncaabunt",
+        "api_id": "NTX"
+    },
+    {
+        "name": "Northern Illinois",
+        "logo": "http://content.sportslogos.net/logos/33/785/thumbs/2886.gif",
+        "id": "ncaabniu",
+        "api_id": "NIL"
+    },
+    {
+        "name": "Northwestern",
+        "logo": "http://content.sportslogos.net/logos/33/787/thumbs/2889.gif",
+        "id": "ncaabnw",
+        "api_id": "NW"
+    },
+    {
+        "name": "Notre Dame",
+        "logo": "http://content.sportslogos.net/logos/33/789/thumbs/h4taj4rqfe7eigc0f2llj59xx.gif",
+        "id": "ncaabnd",
+        "api_id": "ND"
+    },
+    {
+        "name": "Ohio",
+        "logo": "http://content.sportslogos.net/logos/33/792/thumbs/4688.gif",
+        "id": "ncaabohio",
+        "api_id": "OHI"
+    },
+    {
+        "name": "Ohio State",
+        "logo": "http://content.sportslogos.net/logos/33/791/thumbs/79176452013.gif",
+        "id": "ncaabosu",
+        "api_id": "OSU"
+    },
+    {
+        "name": "Oklahoma",
+        "logo": "http://content.sportslogos.net/logos/33/793/thumbs/f9hclkzyftlynvgb1wgf.gif",
+        "id": "ncaabou",
+        "api_id": "OKL"
+    },
+    {
+        "name": "Oklahoma State",
+        "logo": "http://content.sportslogos.net/logos/33/794/thumbs/79478612015.gif",
+        "id": "ncaabokst",
+        "api_id": "OKS"
+    },
+    {
+        "name": "Old Dominion",
+        "logo": "http://content.sportslogos.net/logos/33/795/thumbs/uz5zw5f3gfhh8o9wbeco.gif",
+        "id": "ncaabodu",
+        "api_id": "ODU"
+    },
+    {
+        "name": "Ole Miss",
+        "logo": "http://content.sportslogos.net/logos/32/754/thumbs/75419761996.gif",
+        "id": "ncaabmiss",
+        "api_id": "MIS"
+    },
+    {
+        "name": "Oregon",
+        "logo": "http://content.sportslogos.net/logos/33/797/thumbs/by8dfvb6j89hs5nrvlb1ibx5e.gif",
+        "id": "ncaabore",
+        "api_id": "ORE"
+    },
+    {
+        "name": "Oregon State",
+        "logo": "http://content.sportslogos.net/logos/33/798/thumbs/79813572013.gif",
+        "id": "ncaaborst",
+        "api_id": "ORS"
+    },
+    {
+        "name": "Penn State",
+        "logo": "http://content.sportslogos.net/logos/33/801/thumbs/6g3sx3a2zxgt5z2vb10g.gif",
+        "id": "ncaabpsu",
+        "api_id": "PSU"
+    },
+    {
+        "name": "Pittsburgh",
+        "logo": "http://content.sportslogos.net/logos/33/803/thumbs/80318662016.gif",
+        "id": "ncaabpit",
+        "api_id": "PIT"
+    },
+    {
+        "name": "Purdue",
+        "logo": "http://content.sportslogos.net/logos/33/809/thumbs/80966442012.gif",
+        "id": "ncaabpur",
+        "api_id": "PUR"
+    },
+    {
+        "name": "Rice",
+        "logo": "http://content.sportslogos.net/logos/33/813/thumbs/81337422010.gif",
+        "id": "ncaabrice",
+        "api_id": "RICE"
+    },
+    {
+        "name": "Rutgers",
+        "logo": "http://content.sportslogos.net/logos/33/817/thumbs/j9mxrf2bfzasqkq3by70.gif",
+        "id": "ncaabrutg",
+        "api_id": "RUT"
+    },
+    {
+        "name": "San Diego State",
+        "logo": "http://content.sportslogos.net/logos/34/826/thumbs/82676662013.gif",
+        "id": "ncaabsdsu",
+        "api_id": "SDSU"
+    },
+    {
+        "name": "San Jose State",
+        "logo": "http://content.sportslogos.net/logos/34/828/thumbs/2616.gif",
+        "id": "ncaabsjsu",
+        "api_id": "SJS"
+    },
+    {
+        "name": "SMU",
+        "logo": "http://content.sportslogos.net/logos/34/842/thumbs/2632.gif",
+        "id": "ncaabsmu",
+        "api_id": "SMU"
+    },
+    {
+        "name": "South Alabama",
+        "logo": "http://content.sportslogos.net/logos/34/833/thumbs/f0escusps8d57q2gf0bpy1otm.gif",
+        "id": "ncaabusa",
+        "api_id": "SAB"
+    },
+    {
+        "name": "South Carolina",
+        "logo": "http://content.sportslogos.net/logos/34/834/thumbs/5gje9m4b1shmcd442rkpxkeb8.gif",
+        "id": "ncaabsc",
+        "api_id": "SC"
+    },
+    {
+        "name": "South Florida",
+        "logo": "http://content.sportslogos.net/logos/34/837/thumbs/l3qg5gf3wu3cdrgvpee4.gif",
+        "id": "ncaabusf",
+        "api_id": "USF"
+    },
+    {
+        "name": "Southern Miss",
+        "logo": "http://content.sportslogos.net/logos/34/843/thumbs/84360242015.gif",
+        "id": "ncaabusm",
+        "api_id": "USM"
+    },
+    {
+        "name": "Stanford",
+        "logo": "http://content.sportslogos.net/logos/34/854/thumbs/85448032014.gif",
+        "id": "ncaabstan",
+        "api_id": "STA"
+    },
+    {
+        "name": "Syracuse",
+        "logo": "http://content.sportslogos.net/logos/34/859/thumbs/lhf2fxwjfmysj71nzmqw.gif",
+        "id": "ncaabsyr",
+        "api_id": "SYR"
+    },
+    {
+        "name": "TCU",
+        "logo": "http://content.sportslogos.net/logos/34/868/thumbs/2658.gif",
+        "id": "ncaabtcu",
+        "api_id": "TCU"
+    },
+    {
+        "name": "Temple",
+        "logo": "http://content.sportslogos.net/logos/34/860/thumbs/2648.gif",
+        "id": "ncaabtem",
+        "api_id": "TEM"
+    },
+    {
+        "name": "Tennessee",
+        "logo": "http://content.sportslogos.net/logos/34/861/thumbs/86166262015.gif",
+        "id": "ncaabtenn",
+        "api_id": "TEN"
+    },
+    {
+        "name": "Texas",
+        "logo": "http://content.sportslogos.net/logos/34/865/thumbs/5o2wuto6hq2592hhy9e4prm6e.gif",
+        "id": "ncaabtex",
+        "api_id": "TEX"
+    },
+    {
+        "name": "Texas A&M",
+        "logo": "http://content.sportslogos.net/logos/34/866/thumbs/86674172007.gif",
+        "id": "ncaabtamu",
+        "api_id": "TXAM"
+    },
+    {
+        "name": "Texas State",
+        "logo": "http://content.sportslogos.net/logos/34/847/thumbs/hfiohfg4thrpxlb9r8o2qkuee.gif",
+        "id": "ncaabtxst",
+        "api_id": "TXST"
+    },
+    {
+        "name": "Texas Tech",
+        "logo": "http://content.sportslogos.net/logos/34/870/thumbs/4661.gif",
+        "id": "ncaabttu",
+        "api_id": "TT"
+    },
+    {
+        "name": "Toledo",
+        "logo": "http://content.sportslogos.net/logos/34/874/thumbs/87490502017.gif",
+        "id": "ncaabtol",
+        "api_id": "TOL"
+    },
+    {
+        "name": "Troy",
+        "logo": "http://content.sportslogos.net/logos/34/876/thumbs/87630012008.gif",
+        "id": "ncaabtroy",
+        "api_id": "TRY"
+    },
+    {
+        "name": "Tulane",
+        "logo": "http://content.sportslogos.net/logos/34/877/thumbs/87736922014.gif",
+        "id": "ncaabtuln",
+        "api_id": "TUL"
+    },
+    {
+        "name": "Tulsa",
+        "logo": "http://content.sportslogos.net/logos/34/878/thumbs/2669.gif",
+        "id": "ncaabtlsa",
+        "api_id": "TSA"
+    },
+    {
+        "name": "UCF",
+        "logo": "http://content.sportslogos.net/logos/30/635/thumbs/63556372012.gif",
+        "id": "ncaabucf",
+        "api_id": "UCF"
+    },
+    {
+        "name": "UCLA",
+        "logo": "http://content.sportslogos.net/logos/35/882/thumbs/f14dh4p8ot36v1exxoazhf03a.gif",
+        "id": "ncaabucla",
+        "api_id": "UCLA"
+    },
+    {
+        "name": "UNLV",
+        "logo": "http://content.sportslogos.net/logos/35/888/thumbs/1g4meeffhnmghxfdv57f.gif",
+        "id": "ncaabunlv",
+        "api_id": "UNLV"
+    },
+    {
+        "name": "UMass",
+        "logo": "http://content.sportslogos.net/logos/32/887/thumbs/88759612012.gif",
+        "id": "ncaabumass",
+        "api_id": "UMASS"
+    },
+    {
+        "name": "USC",
+        "logo": "http://content.sportslogos.net/logos/34/840/thumbs/84098311993.gif",
+        "id": "ncaabusc",
+        "api_id": "USC"
+    },
+    {
+        "name": "Utah",
+        "logo": "http://content.sportslogos.net/logos/35/892/thumbs/f59mntuxy6z31v0gapgueoyg2.gif",
+        "id": "ncaabutah",
+        "api_id": "UTH"
+    },
+    {
+        "name": "Utah State",
+        "logo": "http://content.sportslogos.net/logos/35/893/thumbs/fexosti2ekonhhvpjlq0gvyhn.gif",
+        "id": "ncaabusu",
+        "api_id": "UTS"
+    },
+    {
+        "name": "UTEP",
+        "logo": "http://content.sportslogos.net/logos/35/889/thumbs/2711.gif",
+        "id": "ncaabutep",
+        "api_id": "TEP"
+    },
+    {
+        "name": "UTSA",
+        "logo": "http://content.sportslogos.net/logos/34/890/thumbs/8w7wa2e7efz3h7g9m98ja3idd.gif",
+        "id": "ncaabutsa",
+        "api_id": "UTSA"
+    },
+    {
+        "name": "Vanderbilt",
+        "logo": "http://content.sportslogos.net/logos/35/895/thumbs/oz59klw60uzer5pralxhznrl1.gif",
+        "id": "ncaabvan",
+        "api_id": "VAN"
+    },
+    {
+        "name": "Virginia",
+        "logo": "http://content.sportslogos.net/logos/35/898/thumbs/7135.gif",
+        "id": "ncaabuva",
+        "api_id": "UVA"
+    },
+    {
+        "name": "Virginia Tech",
+        "logo": "http://content.sportslogos.net/logos/35/901/thumbs/gabem67h4rb7golayyr7qsole.gif",
+        "id": "ncaabvt",
+        "api_id": "VT"
+    },
+    {
+        "name": "Wake Forest",
+        "logo": "http://content.sportslogos.net/logos/35/903/thumbs/90361392007.gif",
+        "id": "ncaabwake",
+        "api_id": "WF"
+    },
+    {
+        "name": "Washington",
+        "logo": "http://content.sportslogos.net/logos/35/904/thumbs/yookgal4j29r36rx6fz3jug2p.gif",
+        "id": "ncaabuw",
+        "api_id": "WAS"
+    },
+    {
+        "name": "Washington State",
+        "logo": "http://content.sportslogos.net/logos/35/905/thumbs/2724.gif",
+        "id": "ncaabwsu",
+        "api_id": "WST"
+    },
+    {
+        "name": "West Virginia",
+        "logo": "http://content.sportslogos.net/logos/35/907/thumbs/90726501980.gif",
+        "id": "ncaabwvu",
+        "api_id": "WVU"
+    },
+    {
+        "name": "Western Kentucky",
+        "logo": "http://content.sportslogos.net/logos/35/909/thumbs/45vahaduw2h85i3nqehdgn7xq.gif",
+        "id": "ncaabwk",
+        "api_id": "WKY"
+    },
+    {
+        "name": "Western Michigan",
+        "logo": "http://content.sportslogos.net/logos/35/910/thumbs/91055312016.gif",
+        "id": "ncaabwmu",
+        "api_id": "WMC"
+    },
+    {
+        "name": "Wisconsin",
+        "logo": "http://content.sportslogos.net/logos/35/914/thumbs/ydl01hfj8hw4p1mbg1zd.gif",
+        "id": "ncaabwis",
+        "api_id": "WIS"
+    },
+    {
+        "name": "Wyoming",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabwyo",
+        "api_id": "WYO"
+    },
+    {
+        "name": "Butler",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabbut",
+        "api_id": "BUT"
+    },
+    {
+        "name": "Creighton",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabcu",
+        "api_id": "CU"
+    },
+    {
+        "name": "Gonzaga",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabgonz",
+        "api_id": "GONZ"
+    },
+    {
+        "name": "Marquette",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabmu",
+        "api_id": "MU"
+    },
+    {
+        "name": "Providence",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabpc",
+        "api_id": "PC"
+    },
+    {
+        "name": "Seton Hall",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabshu",
+        "api_id": "SHU"
+    },
+    {
+        "name": "St. Johns",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabsju",
+        "api_id": "SJU"
+    },
+    {
+        "name": "Villanova",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabvu",
+        "api_id": "VU"
+    },
+    {
+        "name": "Xavier",
+        "logo": "http://content.sportslogos.net/logos/35/918/thumbs/hub2luegxli9ec81hx65b50hg.gif",
+        "id": "ncaabxu",
+        "api_id": "XU"
+    }
+]
+//Import teams:
+// ncaabTeams.forEach(e => {
+//     firestore().collection('teams').doc(e.id).set({
+//         name: e.name,
+//         league: "NCAAB",
+//         api_id: e.api_id
+//     })
+//         .then(function () {
+//             console.log("Document successfully written!");
+//         })
+//         .catch(function (error) {
+//             console.error("Error writing document: ", error);
+//         });
+// })

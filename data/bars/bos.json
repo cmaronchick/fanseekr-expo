@@ -1,0 +1,652 @@
+[
+  {
+    "Teams": "nbabos",
+    "Name": "Beantown Pub",
+    "Address": "100 Tremont St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.3572597,
+    "longitude": -71.0610515,
+    "Phone": "617-426-0111",
+    "Website": "http://www.beantownpub.com/"
+  },
+  {
+    "Teams": "ncaabtamu;ncaaftamu;ncaabttu;ncaafttu",
+    "Name": "Champions",
+    "Address": "110 Huntington Ave, Boston, MA 02116",
+    "City": "BOS",
+    "latitude": 42.3469942,
+    "longitude": -71.0793374,
+    "Phone": "617-927-5304",
+    "Website": "http://www.marriott.com/hotels/hotel-information/restaurant/bosco-boston-marriott-copley-place/"
+  },
+  {
+    "Teams": "nhlbos;nbabos;mlbbos;nflne;ncaabttu;ncaafttu",
+    "Name": "BEERWORKS (No. 3 Boston/Canal)",
+    "Address": "112 Canal St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.364458,
+    "longitude": -71.060386,
+    "Phone": "617-896-2337",
+    "Website": "https://www.beerworks.net/canal"
+  },
+  {
+    "Teams": "ncaabuga;ncaafuga;ncaabttu;ncaafttu;ncaabtuln;ncaaftuln",
+    "Name": "Clerys",
+    "Address": "113 Dartmouth St, Boston, MA 02116",
+    "City": "BOS",
+    "latitude": 42.3461793,
+    "longitude": -71.0751817,
+    "Phone": "617-262-9874",
+    "Website": "http://www.clerysboston.com/"
+  },
+  {
+    "Teams": "ncaabbama;ncaafbama;ncaabisu;ncaafisu;nflno",
+    "Name": "White Horse Tavern",
+    "Address": "116 Brighton Ave, Boston, MA 02134",
+    "City": "BOS",
+    "latitude": 42.3527073,
+    "longitude": -71.1307792,
+    "Phone": "617-254-6633",
+    "Website": ""
+  },
+  {
+    "Teams": "nhlbos",
+    "Name": "J.J. Foley's Cafe",
+    "Address": "117 E Berkeley St, Boston, MA 02118",
+    "City": "BOS",
+    "latitude": 42.3436642,
+    "longitude": -71.06528,
+    "Phone": "617-728-9101",
+    "Website": "http://www.jjfoleyscafe.com/"
+  },
+  {
+    "Teams": "ncaabmoh;ncaafmoh",
+    "Name": "Yard House",
+    "Address": "126 Brookline Ave, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3453557,
+    "longitude": -71.1002884,
+    "Phone": "617-236-4083",
+    "Website": "https://www.yardhouse.com/locations/ma/boston/boston-fenway-fenway-triangle/8336"
+  },
+  {
+    "Teams": "nbabos;mlbbos;ncaabuconn;ncaafuconn;ncaablsu;ncaaflsu;ncaabmsu;ncaafmsu;ncaabpur;ncaafpur;ncaabwis;ncaafwis",
+    "Name": "The Baseball Tavern",
+    "Address": "1270 Boylston St, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.344739,
+    "longitude": -71.096343,
+    "Phone": "617-867-6526",
+    "Website": "http://www.thebaseballtavern.com/"
+  },
+  {
+    "Teams": "nflcle;ncaabfiu;ncaaffiu;ncaabfsu;ncaaffsu;ncaabksu;ncaafksu",
+    "Name": "Bushwood Cocktail Club Boston",
+    "Address": "131 Broad St, Boston, MA 02110",
+    "City": "BOS",
+    "latitude": 42.3570572,
+    "longitude": -71.0519765,
+    "Phone": "617-261-0131",
+    "Website": "https://www.bushwoodboston.com/"
+  },
+  {
+    "Teams": "ncaabaub;ncaafaub;nhlbos;nbabos;ncaabpit;ncaafpit;ncaabpur;ncaafpur;ncaabvt;ncaafvt",
+    "Name": "Boston Sports Grille",
+    "Address": "132 Canal St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3646876,
+    "longitude": -71.0606499,
+    "Phone": "857-284-7940",
+    "Website": "http://www.bostonsportsgrille.com/"
+  },
+  {
+    "Teams": "ncaabvu",
+    "Name": "West End Johnnie's",
+    "Address": "138 Portland St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3636969,
+    "longitude": -71.0612869,
+    "Phone": "617-227-1588",
+    "Website": "http://www.westendjohnnies.com/"
+  },
+  {
+    "Teams": "ncaabark;ncaafark;nhlbos;ncaabncst;ncaafncst",
+    "Name": "SideBar",
+    "Address": "14 Bromfield St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.356423,
+    "longitude": -71.060084,
+    "Phone": "617-357-1899",
+    "Website": "http://www.sidebarboston.com/"
+  },
+  {
+    "Teams": "nflchi;nbagsw;ncaabmia;ncaafmia;ncaabnc;ncaafnc;nflphi;nflsf",
+    "Name": "The Point",
+    "Address": "147 Hanover St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.36173,
+    "longitude": -71.056963,
+    "Phone": "617-523-7020",
+    "Website": "http://www.thepointboston.net/"
+  },
+  {
+    "Teams": "nbabos",
+    "Name": "Beacon Hill Pub",
+    "Address": "149 Charles St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3604559,
+    "longitude": -71.070729,
+    "Phone": "617-523-1895",
+    "Website": ""
+  },
+  {
+    "Teams": "ncaabiowa;ncaafiowa",
+    "Name": "Barracuda Tavern",
+    "Address": "15 Bosworth St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.3571281,
+    "longitude": -71.060728,
+    "Phone": "617-482-0301",
+    "Website": "http://www.barracudatavern.com/"
+  },
+  {
+    "Teams": "nbagsw",
+    "Name": "Blackstone Grill",
+    "Address": "15 Union St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.36085,
+    "longitude": -71.056624,
+    "Phone": "857-265-3480",
+    "Website": "http://theblackstoneboston.com/"
+  },
+  {
+    "Teams": "nbabos;ncaabku;ncaafku",
+    "Name": "Hurricane's at the Garden",
+    "Address": "150 Canal St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3648137,
+    "longitude": -71.0607941,
+    "Phone": "617-722-0161",
+    "Website": "http://www.hurricanesboston.com/"
+  },
+  {
+    "Teams": "ncaabcle;ncaafcle;ncaabpit;ncaafpit",
+    "Name": "Central Wharf Company",
+    "Address": "160 Milk St, Boston, MA 02110",
+    "City": "BOS",
+    "latitude": 42.3586956,
+    "longitude": -71.0527356,
+    "Phone": "617-451-9460",
+    "Website": "http://www.centralwharfco.com/"
+  },
+  {
+    "Teams": "nhlbos;nbabos;nflne",
+    "Name": "The Fours",
+    "Address": "166 Canal St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3650663,
+    "longitude": -71.0609221,
+    "Phone": "617-720-4455",
+    "Website": "http://www.thefours.com/"
+  },
+  {
+    "Teams": "nhlbos;nbabos",
+    "Name": "Sullivan's Tap",
+    "Address": "168 Canal St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3651265,
+    "longitude": -71.0610054,
+    "Phone": "",
+    "Website": "http://sullivans-tap.myusapage.com/"
+  },
+  {
+    "Teams": "nhlbos;nbabos;ncaabneb;ncaafneb",
+    "Name": "Porters Bar and Grill",
+    "Address": "173 Portland St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.364351,
+    "longitude": -71.061633,
+    "Phone": "617-742-7678",
+    "Website": "http://www.portersbar.com/"
+  },
+  {
+    "Teams": "ncaabore;ncaafore;ncaabutah;ncaafutah",
+    "Name": "The Hub Pub",
+    "Address": "18 Province St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.357281,
+    "longitude": -71.059575,
+    "Phone": "617-227-8952",
+    "Website": "https://thehubpub.com/"
+  },
+  {
+    "Teams": "nhlbos;nbabos",
+    "Name": "McGann's Irish Pub",
+    "Address": "197 Portland St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3644645,
+    "longitude": -71.0618064,
+    "Phone": "617-227-4059",
+    "Website": "http://www.mcgannsirishpub.com/"
+  },
+  {
+    "Teams": "ncaabasu;ncaafasu;ncaabariz;ncaafariz;ncaabcal;ncaafcal;ncaabcolo;ncaafcolo;ncaabcsu;ncaafcsu;ncaabku;ncaafku;ncaabmiz;ncaafmiz;ncaabtamu;ncaaftamu;ncaabucla;ncaafucla;ncaabwsu;ncaafwsu",
+    "Name": "The Kinsale Irish Pub & Restaurant",
+    "Address": "2 Center Plz, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.359775,
+    "longitude": -71.060241,
+    "Phone": "617-742-5577",
+    "Website": "http://www.classicirish.com/"
+  },
+  {
+    "Teams": "nhlbos;nbabos;ncaabmich;ncaafmich;ncaabnc;ncaafnc;nflphi",
+    "Name": "Finn McCool's Boston Sports Bar",
+    "Address": "200 High St, Boston, MA 02110",
+    "City": "BOS",
+    "latitude": 42.3567779,
+    "longitude": -71.0519411,
+    "Phone": "617-737-3466",
+    "Website": "https://www.finnsboston.com/"
+  },
+  {
+    "Teams": "ncaabsc;ncaafsc",
+    "Name": "JJ FOLEYS Bar & Grille",
+    "Address": "21 Kingston St, Boston, MA 02111",
+    "City": "BOS",
+    "latitude": 42.3538155,
+    "longitude": -71.0591706,
+    "Phone": "617-695-2529",
+    "Website": "http://www.jjfoleys.com/location.html"
+  },
+  {
+    "Teams": "ncaabisu;ncaafisu",
+    "Name": "4th Wall Restaurant & Bar",
+    "Address": "228 Tremont St, Boston, MA 02116",
+    "City": "BOS",
+    "latitude": 42.351343,
+    "longitude": -71.0646221,
+    "Phone": "857-957-0909",
+    "Website": "https://www.4thwallrestaurant.com/"
+  },
+  {
+    "Teams": "ncaabark;ncaafark;ncaabtcu;ncaaftcu",
+    "Name": "Scholars American Bistro and Cocktail Lounge",
+    "Address": "25 School St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.3576796,
+    "longitude": -71.0590625,
+    "Phone": "617-248-0025",
+    "Website": "http://www.scholarsbostonbistro.com/"
+  },
+  {
+    "Teams": "ncaabapp;ncaafapp;mlbbos;nflne",
+    "Name": "Tony C's Seaport",
+    "Address": "250 Northern Ave, Boston, MA 02210",
+    "City": "BOS",
+    "latitude": 42.3489694,
+    "longitude": -71.038618,
+    "Phone": "617-856-7369",
+    "Website": "https://www.tonycssportsbar.com/en-us/home.aspx"
+  },
+  {
+    "Teams": "nflari;nhlbos;nbabos;ncaabuconn;ncaafuconn;ncaabisu;ncaafisu;nflnyg;ncaabnc;ncaafnc;ncaabnd;ncaafnd;ncaabpsu;ncaafpsu;ncaabwvu;ncaafwvu",
+    "Name": "The Greatest Bar",
+    "Address": "262 Friend St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3645781,
+    "longitude": -71.0614196,
+    "Phone": "617-367-0544",
+    "Website": "http://www.thegreatestbar.com/"
+  },
+  {
+    "Teams": "nfldal;nflnyj",
+    "Name": "M.J. O'Connor's",
+    "Address": "27 Columbus Ave, Boston, MA 02116",
+    "City": "BOS",
+    "latitude": 42.3511438,
+    "longitude": -71.0689404,
+    "Phone": "617-482-2255",
+    "Website": "http://www.mjoconnors.com/"
+  },
+  {
+    "Teams": "nhlbos;mlbbos;nflne",
+    "Name": "Beer Works",
+    "Address": "300 Terminal Dr, Boston, MA 02128",
+    "City": "BOS",
+    "latitude": 42.3658103,
+    "longitude": -71.015394,
+    "Phone": "617-567-2337",
+    "Website": "http://www.beerworks.net/locations.php"
+  },
+  {
+    "Teams": "nbabos;ncaabksu;ncaafksu",
+    "Name": "Harvard Gardens",
+    "Address": "316 Cambridge St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3609306,
+    "longitude": -71.0689398,
+    "Phone": "617-523-2727",
+    "Website": "http://www.harvardgardens.com/"
+  },
+  {
+    "Teams": "ncaabfsu;ncaaffsu",
+    "Name": "Battery Park | Bar & Patio",
+    "Address": "33 Batterymarch St, Boston, MA 02110",
+    "City": "BOS",
+    "latitude": 42.357385,
+    "longitude": -71.054103,
+    "Phone": "617-350-7275",
+    "Website": "http://www.batteryparkboston.com/"
+  },
+  {
+    "Teams": "nbabos;mlsne",
+    "Name": "Paddy O's",
+    "Address": "33 Union St # A, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.361141,
+    "longitude": -71.056738,
+    "Phone": "617-263-7771",
+    "Website": "http://www.paddyos.com/"
+  },
+  {
+    "Teams": "ncaabuf;ncaafuf;ncaabuk;ncaafuk;ncaabumd;ncaafumd;ncaabmsst;ncaafmsst;ncaabvu;ncaabxu",
+    "Name": "Warehouse Bar & Grille",
+    "Address": "40 Broad St, Boston, MA 02109",
+    "City": "BOS",
+    "latitude": 42.35835,
+    "longitude": -71.053799,
+    "Phone": "617-936-4383",
+    "Website": "http://www.thewarehouseboston.com/"
+  },
+  {
+    "Teams": "ncaabpsu;ncaafpsu",
+    "Name": "The Social Register",
+    "Address": "401 D St, Boston, MA 02210",
+    "City": "BOS",
+    "latitude": 42.3436419,
+    "longitude": -71.0449158,
+    "Phone": "857-496-4104",
+    "Website": "https://socialregisterboston.com/"
+  },
+  {
+    "Teams": "nbabos",
+    "Name": "Loco Taqueria & Oyster Bar",
+    "Address": "412 W Broadway, Boston, MA 02127",
+    "City": "BOS",
+    "latitude": 42.3370693,
+    "longitude": -71.0476881,
+    "Phone": "617-917-5626",
+    "Website": "http://locosouthboston.com/"
+  },
+  {
+    "Teams": "ncaabgonz",
+    "Name": "Corner Tavern",
+    "Address": "421 Marlborough St, Boston, MA 02115",
+    "City": "BOS",
+    "latitude": 42.3501302,
+    "longitude": -71.08947,
+    "Phone": "617-262-5555",
+    "Website": "http://www.thecornerboston.com/"
+  },
+  {
+    "Teams": "ncaabxu",
+    "Name": "The Bell In Hand Tavern",
+    "Address": "45 Union St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.361447,
+    "longitude": -71.0570358,
+    "Phone": "617-855-0061",
+    "Website": "http://www.bellinhand.com/"
+  },
+  {
+    "Teams": "ncaabmia;ncaafmia",
+    "Name": "Two Saints Tavern",
+    "Address": "52 Gainsborough St, Boston, MA 02115",
+    "City": "BOS",
+    "latitude": 42.3417467,
+    "longitude": -71.0871797,
+    "Phone": "617-236-8784",
+    "Website": "https://www.dosdiablostacobar.com/twosaintstavern"
+  },
+  {
+    "Teams": "nbabos",
+    "Name": "Bodega Canal",
+    "Address": "57 Canal St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3638947,
+    "longitude": -71.0591423,
+    "Phone": "617-833-4885",
+    "Website": "http://bodegacanal.com/"
+  },
+  {
+    "Teams": "nflmia",
+    "Name": "6B Lounge",
+    "Address": "6 Beacon St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.3581468,
+    "longitude": -71.0614448,
+    "Phone": "617-742-0306",
+    "Website": "http://www.6bloungeandrestaurant.com/"
+  },
+  {
+    "Teams": "ncaabuk;ncaafuk",
+    "Name": "Sterling's",
+    "Address": "60 State St, Boston, MA 02109",
+    "City": "BOS",
+    "latitude": 42.3592926,
+    "longitude": -71.056483,
+    "Phone": "617-531-8200",
+    "Website": "http://www.sterlingsboston.com/"
+  },
+  {
+    "Teams": "nhlbos;nbabos;mlbbos;nflne",
+    "Name": "BEERWORKS (No 1. Fenway/Boston)",
+    "Address": "61 Brookline Ave, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3471278,
+    "longitude": -71.0990805,
+    "Phone": "617-536-2337",
+    "Website": "http://www.beerworks.net/"
+  },
+  {
+    "Teams": "ncaabarmy;ncaafarmy;nhlbos;nbabos;mlbbos;ncaabmu;nflne",
+    "Name": "Cask 'n Flagon",
+    "Address": "62 Brookline Ave, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3474,
+    "longitude": -71.097921,
+    "Phone": "617-536-4840",
+    "Website": "http://casknflagon.com/"
+  },
+  {
+    "Teams": "nflbal;nbabos;ncaabokst;ncaafokst;ncaabtem;ncaaftem;ncaabtex;ncaaftex",
+    "Name": "Causeway",
+    "Address": "65 Causeway St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3644897,
+    "longitude": -71.062641,
+    "Phone": "617-227-9100",
+    "Website": "http://www.causewayboston.com/"
+  },
+  {
+    "Teams": "mlbbos",
+    "Name": "Cornwall's",
+    "Address": "654 Beacon St, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3493521,
+    "longitude": -71.0958689,
+    "Phone": "617-262-3749",
+    "Website": "http://www.cornwalls.com/"
+  },
+  {
+    "Teams": "nbabos",
+    "Name": "The Playwright",
+    "Address": "658 E Broadway, Boston, MA 02127",
+    "City": "BOS",
+    "latitude": 42.33579,
+    "longitude": -71.0381,
+    "Phone": "",
+    "Website": ""
+  },
+  {
+    "Teams": "nfldal;ncaabuva;ncaafuva;nbabos;mlbbos;nflne;ncaabrutg;ncaafrutg;nhlbos",
+    "Name": "Game On Fenway",
+    "Address": "82 Lansdowne St, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3470429,
+    "longitude": -71.0982933,
+    "Phone": "617-351-7001",
+    "Website": "http://gameonboston.com/"
+  },
+  {
+    "Teams": "mlbbos;nflbuf",
+    "Name": "Bleacher Bar",
+    "Address": "82A Lansdowne St, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3470557,
+    "longitude": -71.0966136,
+    "Phone": "617-262-2424",
+    "Website": "http://www.bleacherbarboston.com/"
+  },
+  {
+    "Teams": "nbabos",
+    "Name": "Cheers",
+    "Address": "84 Beacon St, Boston, MA 02108",
+    "City": "BOS",
+    "latitude": 42.3559234,
+    "longitude": -71.0712784,
+    "Phone": "617-227-9605",
+    "Website": "http://www.cheersboston.com/"
+  },
+  {
+    "Teams": "nhlbos",
+    "Name": "Kelley Square Pub",
+    "Address": "84 Bennington St, Boston, MA 02128",
+    "City": "BOS",
+    "latitude": 42.376138,
+    "longitude": -71.035773,
+    "Phone": "617-567-4627",
+    "Website": "http://www.kelleysquarepubmenu.com/"
+  },
+  {
+    "Teams": "nbabos;nflbuf;ncaabbuff;ncaafbuff;nflne;ncaabvu",
+    "Name": "The Harp",
+    "Address": "85 Causeway St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3645765,
+    "longitude": -71.0623276,
+    "Phone": "617-742-1010",
+    "Website": "http://www.harpboston.com/"
+  },
+  {
+    "Teams": "ncaabmoh;ncaafmoh",
+    "Name": "Back Bay Social",
+    "Address": "867 Boylston St, Boston, MA 02199",
+    "City": "BOS",
+    "latitude": 42.348708,
+    "longitude": -71.083423,
+    "Phone": "617-247-3200",
+    "Website": "http://www.backbaysocialclub.com/"
+  },
+  {
+    "Teams": "ncaabmiss;ncaafmiss;ncaabsyr;ncaafsyr",
+    "Name": "Whiskey's",
+    "Address": "885 Boylston St, Boston, MA 02116",
+    "City": "BOS",
+    "latitude": 42.348641,
+    "longitude": -71.083687,
+    "Phone": "617-262-5551",
+    "Website": "http://www.whiskeysboston.com/"
+  },
+  {
+    "Teams": "nhlbos;ncaabcin;ncaafcin;ncaabucf;ncaafucf",
+    "Name": "The Red Hat",
+    "Address": "9 Bowdoin St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3609513,
+    "longitude": -71.0630768,
+    "Phone": "617-523-2175",
+    "Website": "http://www.theredhatboston.com/"
+  },
+  {
+    "Teams": "mlbbos",
+    "Name": "Lansdowne Pub",
+    "Address": "9 Lansdowne St, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3473202,
+    "longitude": -71.0951975,
+    "Phone": "617-247-1222",
+    "Website": "http://www.lansdownepubboston.com/"
+  },
+  {
+    "Teams": "ncaabduke;ncaafduke;nflsea;ncaabtcu;ncaaftcu;ncaabuw;ncaafuw",
+    "Name": "LIR",
+    "Address": "903 Boylston St, Boston, MA 02115",
+    "City": "BOS",
+    "latitude": 42.348449,
+    "longitude": -71.0842226,
+    "Phone": "617-778-0089",
+    "Website": "http://www.lironboylston.com/"
+  },
+  {
+    "Teams": "mlbbos;ncaabsyr;ncaafsyr",
+    "Name": "The Pour House",
+    "Address": "907 Boylston St #21, Boston, MA 02115",
+    "City": "BOS",
+    "latitude": 42.3483551,
+    "longitude": -71.0842671,
+    "Phone": "617-236-1767",
+    "Website": "http://www.pourhouseboston.com/"
+  },
+  {
+    "Teams": "ncaabaub;ncaafaub;nhlbos;nbabos;mlbbos;nflne;mlsne;ncaabnd;ncaafnd;ncaabou;ncaafou;ncaabusc;ncaafusc",
+    "Name": "McGreevy's Boston",
+    "Address": "911 Boylston St, Boston, MA 02115",
+    "City": "BOS",
+    "latitude": 42.348458,
+    "longitude": -71.0844207,
+    "Phone": "617-262-0911",
+    "Website": "http://www.mcgreevysboston.com/"
+  },
+  {
+    "Teams": "nflcar;nflgb;mlsne",
+    "Name": "The Banshee",
+    "Address": "934 Dorchester Ave, Boston, MA 02125",
+    "City": "BOS",
+    "latitude": 42.318972,
+    "longitude": -71.0565806,
+    "Phone": "617-436-9747",
+    "Website": "http://www.bansheeboston.com/"
+  },
+  {
+    "Teams": "ncaabbama;ncaafbama;ncaabpit;ncaafpit",
+    "Name": "Dillon's",
+    "Address": "955 Boylston St, Boston, MA 02115",
+    "City": "BOS",
+    "latitude": 42.3479367,
+    "longitude": -71.085894,
+    "Phone": "617-421-1818",
+    "Website": "http://www.dillonsboston.com/"
+  },
+  {
+    "Teams": "ncaabwis;ncaafwis",
+    "Name": "T's Pub Boston",
+    "Address": "973 Commonwealth Avenue, Boston, MA 02215",
+    "City": "BOS",
+    "latitude": 42.3521,
+    "longitude": -71.119751,
+    "Phone": "857-302-3523",
+    "Website": "http://www.tspubboston.com/"
+  },
+  {
+    "Teams": "ncaabbc;ncaafbc",
+    "Name": "Banners Kitchen & Tap",
+    "Address": "The Hub On Causeway, 82 Causeway St, Boston, MA 02114",
+    "City": "BOS",
+    "latitude": 42.3655432,
+    "longitude": -71.0614971,
+    "Phone": "617-263-8200",
+    "Website": "https://www.patinagroup.com/banners"
+  }
+]

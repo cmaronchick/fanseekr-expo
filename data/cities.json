@@ -1,0 +1,805 @@
+[
+    {
+        "id": "ALA",
+        "value": "Alabama",
+        "coordinates": {
+            "latitude": 52.4862,
+            "longitude": -1.8904
+        },
+        "city": "Birmingham",
+        "state": "Alabama",
+        "search": "Hoover, AL - Montgomery, AL - Mobile, AL - Huntsville, AL - Tuscaloosa, AL - "
+    },
+    {
+        "id": "ALS",
+        "value": "Alaska",
+        "coordinates": {
+            "latitude": 61.2181,
+            "longitude": -149.9003
+        },
+        "city": "Anchorage",
+        "state": "Alaska",
+        "search": "Anchorage, AK - Fairbanks, AK - Juneau, AK"
+    },
+    {
+        "id": "ARK",
+        "value": "Arkansas",
+        "coordinates": {
+            "latitude": 34.7465,
+            "longitude": -92.2896
+        },
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "search": "Pine Bluff, AR - Fayetteville, AR - Springdale, AR - Jonesboro, AR"
+    },
+    {
+        "id": "ATL",
+        "value": "Atlanta",
+        "coordinates": {
+            "latitude": 33.749,
+            "longitude": -84.388
+        },
+        "city": "atlanta",
+        "state": "Georgia",
+        "search": "Athens, GA - Marietta, GA - Dalton,GA - Columbus, GA"
+    },
+    {
+        "id": "AUG",
+        "value": "Augusta/Savannah",
+        "coordinates": {
+            "latitude": 33.4735,
+            "longitude": -82.0105
+        },
+        "city": "Augusta",
+        "state": "Georgia",
+        "search": "Augusta, GA - Savannah,GA"
+    },
+    {
+        "id": "AUS",
+        "value": "Austin",
+        "coordinates": {
+            "latitude": 30.2672,
+            "longitude": -97.7431
+        },
+        "city": "Austin",
+        "state": "Texas",
+        "search": "Austin, TX - Round Rock, TX - Cedar Park, TX - Georgetown, TX - San Marcos, TX - Pflugerville, TX - Leander, TX"
+    },
+    {
+        "id": "BAK",
+        "value": "Bakersfield/Fresno",
+        "coordinates": {
+            "latitude": 35.3733,
+            "longitude": -119.0187
+        },
+        "city": "Bakersfield",
+        "state": "California",
+        "search": "Bakersfield, CA - Fresno, CA - Clovis, CA"
+    },
+    {
+        "id": "BAL",
+        "value": "Baltimore",
+        "coordinates": {
+            "latitude": 39.2904,
+            "longitude": -76.6122
+        },
+        "city": "Baltimore",
+        "state": "Maryland",
+        "search": "Baltimore, MD - Annapolis, MD"
+    },
+    {
+        "id": "BAY",
+        "value": "Bay Area",
+        "coordinates": {
+            "latitude": 37.7749,
+            "longitude": -122.4194
+        },
+        "city": "San Fran",
+        "state": "California",
+        "search": "San Francisco, CA - Oakland, CA - San Jose, CA - Fremont, CA - Hayward, CA - Berkeley, CA - Concord, CA - Richmond, CA - Antioch, CA - Daly city, CA - San Mateo, CA - Redwood city, CA - San Rafael, CA - Novato, CA"
+    },
+    {
+        "id": "BOS",
+        "value": "Boston",
+        "coordinates": {
+            "latitude": 42.3601,
+            "longitude": -71.0589
+        },
+        "city": "Boston",
+        "state": "Massachusetts",
+        "search": "Worcester, MA -  Lowell, MA - Cambridge, MA - New Bedford, MA - Brockton, MA - Quincy, MA - Lynn, MA"
+    },
+    {
+        "id": "CHA",
+        "value": "Charlotte",
+        "coordinates": {
+            "latitude": 35.2271,
+            "longitude": -80.8431
+        },
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "search": "Charlotte, NC - Asheville, NC"
+    },
+    {
+        "id": "CHI",
+        "value": "Chicago",
+        "coordinates": {
+            "latitude": 41.8781,
+            "longitude": -87.6298
+        },
+        "city": "chicago",
+        "state": "Illinois",
+        "search": "Aurora, IL - Naperville, IL - Evanston, IL - Schaumburg, IL - Rockford, IL - Joliet, IL - Elgin, IL -  South Bend, IN"
+    },
+    {
+        "id": "CIN",
+        "value": "Cincinatti",
+        "coordinates": {
+            "latitude": 39.1031,
+            "longitude": -84.512
+        },
+        "city": "Cincinatti",
+        "state": "Ohio",
+        "search": "Covington, KY - Dayton, OH - "
+    },
+    {
+        "id": "CLE",
+        "value": "Cleveland",
+        "coordinates": {
+            "latitude": 41.4993,
+            "longitude": -81.6944
+        },
+        "city": "Cleveland",
+        "state": "Ohio",
+        "search": "Akron, OH - Parma, OH - Canton, OH - "
+    },
+    {
+        "id": "COL",
+        "value": "Columbus",
+        "coordinates": {
+            "latitude": 39.9612,
+            "longitude": -82.9988
+        },
+        "city": "Columbus",
+        "state": "Ohio",
+        "search": "n/a"
+    },
+    {
+        "id": "CON",
+        "value": "Connecticut",
+        "coordinates": {
+            "latitude": 41.7658,
+            "longitude": -72.6734
+        },
+        "city": "New Haven",
+        "state": "Connecticut",
+        "search": "Bridgeport, CT - Hartford, CT - Stamford, CT - Waterbury, CT - Norwalk, CT - Danbury -  CT -  Springfield, MA"
+    },
+    {
+        "id": "DAL",
+        "value": "Dallas",
+        "coordinates": {
+            "latitude": 32.7767,
+            "longitude": -96.797
+        },
+        "city": "Dallas",
+        "state": "Texas",
+        "search": "Dallas, TX - Fort Worth, TX - Arlington, TX - Plano, TX - Irving, TX - Garland, TX - Grand Prairie, TX - McKinney, TX - Frisco, TX - Mesquite, TX - Carrollton, TX - Denton, TX - Richardson, TX - Lewisville, TX"
+    },
+    {
+        "id": "DEL",
+        "value": "Delaware",
+        "coordinates": {
+            "latitude": 39.1582,
+            "longitude": -75.5244
+        },
+        "city": "dover",
+        "state": "Delaware",
+        "search": "Delaware - Dover, DE - Wilmington, DE"
+    },
+    {
+        "id": "DET",
+        "value": "Detroit",
+        "coordinates": {
+            "latitude": 42.3314,
+            "longitude": -83.0458
+        },
+        "city": "Detroit",
+        "state": "Michigan",
+        "search": "Grand Rapids, MI - Warren city, MI - Sterling Heights, MI - Ann Arbor, MI - Lansing, MI - Flint, MI - Clinton Township, MI - Toledo, OH"
+    },
+    {
+        "id": "DOW",
+        "value": "Downstate Illinois",
+        "coordinates": {
+            "latitude": 39.7817,
+            "longitude": -89.6501
+        },
+        "city": "Springfield",
+        "state": "Illinois",
+        "search": "Peoria, IL - Decatur, IL - Champaign, IL - Bloomington, IL"
+    },
+    {
+        "id": "ELP",
+        "value": "El Paso",
+        "coordinates": {
+            "latitude": 31.7619,
+            "longitude": -106.485
+        },
+        "city": "El Paso",
+        "state": "Texas",
+        "search": "El Paso, TX - Las Cruces, NM"
+    },
+    {
+        "id": "FLO",
+        "value": "Florida Panhandle",
+        "coordinates": {
+            "latitude": 30.4383,
+            "longitude": -84.2807
+        },
+        "city": "Tallahassee",
+        "state": "Florida",
+        "search": "Florida Panhandle - Panhandle - Tallahassee, FL - Panama city, FL - Pensacola -  FL - Destin, FL - Fort Walton Beach, FL"
+    },
+    {
+        "id": "HAW",
+        "value": "Hawaii",
+        "coordinates": {
+            "latitude": 21.3069,
+            "longitude": -157.8583
+        },
+        "city": "Honolulu",
+        "state": "Hawaii",
+        "search": "Honolulu, HI - East Honolulu, HI"
+    },
+    {
+        "id": "HOU",
+        "value": "Houston",
+        "coordinates": {
+            "latitude": 29.7604,
+            "longitude": -95.3698
+        },
+        "city": "Houston",
+        "state": "Texas",
+        "search": "Houston, TX - League city, TX - Pasadena,TX - Pearland, TX - Sugar Land, TX - Cypress, TX - The Woodlands, TX"
+    },
+    {
+        "id": "IDA",
+        "value": "Idaho",
+        "coordinates": {
+            "latitude": 43.615,
+            "longitude": -116.2023
+        },
+        "city": "Boise",
+        "state": "Idaho",
+        "search": "Boise, id - Meridian, id - Nampa, id - Twin Falls, id - Idaho Falls, id - Pocatello, id"
+    },
+    {
+        "id": "IND",
+        "value": "Indianapolis",
+        "coordinates": {
+            "latitude": 39.7684,
+            "longitude": -86.1581
+        },
+        "city": "indianapolis",
+        "state": "Indiana",
+        "search": "Carmel, IN - Muncie, IN - Anderson, IN - Bloomington, IN - Terre Haute, IN - Evansville, IN - Fishers, IN - "
+    },
+    {
+        "id": "INL",
+        "value": "Inland Empire",
+        "coordinates": {
+            "latitude": 34.0633,
+            "longitude": -117.6509
+        },
+        "city": "Ontario",
+        "state": "California",
+        "search": "Riverside, CA - San Bernardino, CA - Ontario, CA - Moreno Valley, CA - Corona, CA - Temecula, CA - Murrieta, CA - Fontana, CA - Rancho Cucamonga, CA - Victorville, CA - Rialto, CA"
+    },
+    {
+        "id": "IOW",
+        "value": "Iowa",
+        "coordinates": {
+            "latitude": 41.5868,
+            "longitude": -93.625
+        },
+        "city": "Des Moines",
+        "state": "Iowa",
+        "search": "Ceder Rapids, IA - Iowa CIty, IA - Davenport, IA - Ames, IA"
+    },
+    {
+        "id": "JAC",
+        "value": "Jacksonville",
+        "coordinates": {
+            "latitude": 30.3322,
+            "longitude": -81.6557
+        },
+        "city": "jacksonville",
+        "state": "Florida",
+        "search": "Jacksonville FL - Gainesville, FL - St. Augustine, FL - Orange Park, FL"
+    },
+    {
+        "id": "KAN",
+        "value": "Kansas",
+        "coordinates": {
+            "latitude": 37.6872,
+            "longitude": -97.3301
+        },
+        "city": "Wichita",
+        "state": "Kansas",
+        "search": "Wichita, KS - Topeka, KS - Manhattan, KS - Lawrence, KS"
+    },
+    {
+        "id": "KC",
+        "value": "Kansas City",
+        "coordinates": {
+            "latitude": 39.0997,
+            "longitude": -94.5786
+        },
+        "city": "Kansas City",
+        "state": "Missouri",
+        "search": "Independence, MO - Kansas city, KS - Lee's Summit, MO - Springfield, MO"
+    },
+    {
+        "id": "LAS",
+        "value": "Las Vegas",
+        "coordinates": {
+            "latitude": 36.1699,
+            "longitude": -115.1398
+        },
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "search": "Las Vegas, NV - Henderson, NV - Reno, NV - North Las Vegas, NV"
+    },
+    {
+        "id": "LOS",
+        "value": "Los Angeles",
+        "coordinates": {
+            "latitude": 34.0522,
+            "longitude": -118.2437
+        },
+        "city": "LA",
+        "state": "California",
+        "search": "Los Angeles, CA - Long Beach, CA - Anaheim, CA - Santa Ana, CA - Irvine, CA - Santa Clarita, CA - Glendale, CA - Huntington Beach, CA - Garden Grove, CA - Lancaster, CA - Palmdale, CA - Pomona, CA - Torrance, CA - Pasadena, CA - Fullerton, CA - Orange, CA - East Los Angeles, CA - El Monte, CA - Costa Mesa, CA - Downey, CA - Inglewood, CA - West Covina, CA - Norwalk, CA - Burbank, CA - Compton, CA - Mission Viejo, CA - Carson, CA - Santa Monica, CA - Newport Beach, CA"
+    },
+    {
+        "id": "LOU",
+        "value": "Louisville",
+        "coordinates": {
+            "latitude": 38.2527,
+            "longitude": -85.7585
+        },
+        "city": "Louisville",
+        "state": "Kentucky",
+        "search": "Lexington, KY - Owensboro, KY - Frankfort, KY"
+    },
+    {
+        "id": "MAI",
+        "value": "Maine",
+        "coordinates": {
+            "latitude": 43.6591,
+            "longitude": -70.2568
+        },
+        "city": "Portland",
+        "state": "Maine",
+        "search": "Maine - Portland, ME - Lewiston, ME - Bangor, ME"
+    },
+    {
+        "id": "MEM",
+        "value": "Memphis",
+        "coordinates": {
+            "latitude": 35.1495,
+            "longitude": -90.049
+        },
+        "city": "Memphis",
+        "state": "Tennessee",
+        "search": "Bowling Green, KY - Jackson, TN - Jonesboro, AR"
+    },
+    {
+        "id": "MIL",
+        "value": "Milwaukee/Madison",
+        "coordinates": {
+            "latitude": 43.0389,
+            "longitude": -87.9065
+        },
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "search": "Madison, WI - Green Bay, WI - Kenosha, WI"
+    },
+    {
+        "id": "MIS",
+        "value": "Mississippi",
+        "coordinates": {
+            "latitude": 32.2988,
+            "longitude": -90.1848
+        },
+        "city": "Jackson",
+        "state": "Mississippi",
+        "search": "Hattiesburg, MS - Vicksburg, MS - Meridian, MS - "
+    },
+    {
+        "id": "MON",
+        "value": "Montana",
+        "coordinates": {
+            "latitude": 45.7833,
+            "longitude": -108.5007
+        },
+        "city": "Billings",
+        "state": "Montana",
+        "search": "Billings, MT -  Missoula, MT -  Great Falls, MT"
+    },
+    {
+        "id": "NAS",
+        "value": "Nashville",
+        "coordinates": {
+            "latitude": 36.1627,
+            "longitude": -86.7816
+        },
+        "city": "Nashville",
+        "state": "Tennessee",
+        "search": "Clarksville, TN - Knoxville, TN - Chattanooga, TN - Murfreesboro, TN"
+    },
+    {
+        "id": "NEB",
+        "value": "Nebraska",
+        "coordinates": {
+            "latitude": 41.2565,
+            "longitude": -95.9345
+        },
+        "city": "Omaha",
+        "state": "Nebraska",
+        "search": "Sioux city, IA - Lincoln, NE - Bellevue, NE"
+    },
+    {
+        "id": "NO",
+        "value": "New Orleans",
+        "coordinates": {
+            "latitude": 29.9511,
+            "longitude": -90.0715
+        },
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "search": "Baton Rouge, LA - Lafayette, LA - Lake Charles, LA -  Gulfport, MS - Biloxi, MS"
+    },
+    {
+        "id": "NH",
+        "value": "New Hampshire",
+        "coordinates": {
+            "latitude": 42.9956,
+            "longitude": -71.4548
+        },
+        "city": "Manchester",
+        "state": "New Hampshire",
+        "search": "New Hampshire - Manchester, NH - Nashua, NH"
+    },
+    {
+        "id": "NJ",
+        "value": "New Jersey",
+        "coordinates": {
+            "latitude": 40.5187,
+            "longitude": -74.4121
+        },
+        "city": "Edison Metro",
+        "state": "New Jersey",
+        "search": "New Jersey - Newark, NJ - Hoboken, NJ - Trenton, NJ -  Edison, NJ -  Jersey city - Paterson, NJ - Elizabeth, NJ - Atlantic city,NJ"
+    },
+    {
+        "id": "NM",
+        "value": "New Mexico",
+        "coordinates": {
+            "latitude": 35.0844,
+            "longitude": -106.6504
+        },
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "search": "Albuquerque, NM - Rio Rancho, NM - Santa Fe, NM"
+    },
+    {
+        "id": "ND",
+        "value": "North Dakota",
+        "coordinates": {
+            "latitude": 46.8772,
+            "longitude": -96.7898
+        },
+        "city": "Fargo",
+        "state": "North Dakota",
+        "search": "Fargo, ND - Bismarck, ND - Grand Forks, ND"
+    },
+    {
+        "id": "NYC",
+        "value": "NYC Metro",
+        "coordinates": {
+            "latitude": 40.7209,
+            "longitude": -74.0007
+        },
+        "city": "Lower Manhattan",
+        "state": "New York",
+        "search": "New York city, NY - NYC - Manhattan, NY - Long Island, NY"
+    },
+    {
+        "id": "OKL",
+        "value": "Oklahoma city",
+        "coordinates": {
+            "latitude": 35.4676,
+            "longitude": -97.5164
+        },
+        "city": "Oklahoma city",
+        "state": "Oklahoma",
+        "search": "Oklahoma city, OK - Tulsa, OK - Norman, OK - Broken Arrow, OK - Edmond, OK - Lawton, OK - Stillwater, OK"
+    },
+    {
+        "id": "ORL",
+        "value": "Orlando",
+        "coordinates": {
+            "latitude": 28.5383,
+            "longitude": -81.3792
+        },
+        "city": "orlando",
+        "state": "Florida",
+        "search": "Orlando, FL - Ocala, FL - Daytona Beach, FL - Melbourne, FL -  "
+    },
+    {
+        "id": "PHI",
+        "value": "Philadelphia",
+        "coordinates": {
+            "latitude": 39.9526,
+            "longitude": -75.1652
+        },
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "search": "Harrisburg, PA - Camden, NJ - Reading, PA - Allentown,PA"
+    },
+    {
+        "id": "PHO",
+        "value": "Phoenix",
+        "coordinates": {
+            "latitude": 33.4484,
+            "longitude": -112.074
+        },
+        "city": "Phoenix",
+        "state": "Arizona",
+        "search": "Phoenix, AZ - Mesa AZ - Chandler, AZ - Scottsdale, AZ - Glendale, AZ - Gilbert, AZ - Tempe, AZ - Peoria, AZ - Surprise, AZ - Tuscon, AZ"
+    },
+    {
+        "id": "PIT",
+        "value": "Pittsburgh",
+        "coordinates": {
+            "latitude": 40.4406,
+            "longitude": -79.9959
+        },
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "search": "Pittsburgh, PA -  Morgantown, WV"
+    },
+    {
+        "id": "POR",
+        "value": "Portland",
+        "coordinates": {
+            "latitude": 45.5051,
+            "longitude": -122.675
+        },
+        "city": "Portland",
+        "state": "Oregon",
+        "search": "Portland, OR - Vancouver, OR -  Hillsboro, OR - Gresham, OR - Beaverton, OR"
+    },
+    {
+        "id": "RAL",
+        "value": "Raleigh",
+        "coordinates": {
+            "latitude": 35.7796,
+            "longitude": -78.6382
+        },
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "search": "Raleigh, NC - Durham,NC - Chapel Hill, NC - Winston Salem, NC - Fayetteville, NC - Greensboro, NC"
+    },
+    {
+        "id": "RHO",
+        "value": "Rhode Island",
+        "coordinates": {
+            "latitude": 41.824,
+            "longitude": -71.4128
+        },
+        "city": "Providence",
+        "state": "Rhode Island",
+        "search": "Rhode Island - Providence, RI - Cranston, RI - Warwick,RI"
+    },
+    {
+        "id": "RIC",
+        "value": "Richmond/Hampton Roads",
+        "coordinates": {
+            "latitude": 37.5407,
+            "longitude": -77.436
+        },
+        "city": "Richmand",
+        "state": "Virginia",
+        "search": "Hampton Roads - Richmond, VA - Virginia Beach,VA - Charlottesville, VA - Norfolk, VA - Chesapeake, VA - Roanoke, VA"
+    },
+    {
+        "id": "DEN",
+        "value": "Rocky Mountains",
+        "coordinates": {
+            "latitude": 39.7392,
+            "longitude": -104.9903
+        },
+        "city": "Denver",
+        "state": "Colorado",
+        "search": "Denver, CO - Arvada, CO - Aurora, CO - Centennial, CO - Lakewood, CO - Thornton, CO - Westminster, CO - Boulder, CO"
+    },
+    {
+        "id": "SAC",
+        "value": "Sacramento",
+        "coordinates": {
+            "latitude": 38.5816,
+            "longitude": -121.4944
+        },
+        "city": "Sacramento",
+        "state": "California",
+        "search": "Sacramento, CA - Elk Grove, CA - Roseville, CA - Davis, CA - Folsom, CA - Rancho Cordova, CA"
+    },
+    {
+        "id": "SD",
+        "value": "San Diego",
+        "coordinates": {
+            "latitude": 32.7157,
+            "longitude": -117.1611
+        },
+        "city": "San Diego",
+        "state": "California",
+        "search": "San Diego, CA - Chula Vista, CA - Oceanside, CA - Escondido, CA - Carlsbad, CA - El Cajon, CA - Vista, CA - San Marcos, CA"
+    },
+    {
+        "id": "SAN",
+        "value": "San Antonio",
+        "coordinates": {
+            "latitude": 29.4241,
+            "longitude": -98.4936
+        },
+        "city": "San Antonio",
+        "state": "Texas",
+        "search": "San Antonio, TX - New Braunfels, TX"
+    },
+    {
+        "id": "SEA",
+        "value": "Seattle",
+        "coordinates": {
+            "latitude": 47.6062,
+            "longitude": -122.3321
+        },
+        "city": "Seattle",
+        "state": "Washington",
+        "search": "Seattle, WA - Tacoma, WA - Bellevue, WA - Everett, WA - Spokane, WA - Vancouver, WA - Kent, WA - Renton, WA - Spokane Valley, WA"
+    },
+    {
+        "id": "SF",
+        "value": "South Florida",
+        "coordinates": {
+            "latitude": 25.7617,
+            "longitude": -80.1918
+        },
+        "city": "Miami",
+        "state": "Florida",
+        "search": "Miami, FL - Ft. Lauderdale, FL - Fort Lauderdale,FL - Naples, FL - West Palm Beach, FL - Coral Gables, FL - Key West, FL"
+    },
+    {
+        "id": "SC",
+        "value": "South Carolina",
+        "coordinates": {
+            "latitude": 34.0007,
+            "longitude": -81.0348
+        },
+        "city": "Columbia",
+        "state": "South Carolina",
+        "search": "South Carolina - Columbia, SC - Greenville, SC - Charleston, SC - Hilton Head, SC - Myrtle Beach, SC - Hilton Head, SC"
+    },
+    {
+        "id": "SOD",
+        "value": "South Dakota",
+        "coordinates": {
+            "latitude": 43.5473,
+            "longitude": -96.7283
+        },
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "search": "Sioux Falls, SD - Rapid city, SD"
+    },
+    {
+        "id": "STL",
+        "value": "St. Louis",
+        "coordinates": {
+            "latitude": 38.627,
+            "longitude": -90.1994
+        },
+        "city": "St. Louis",
+        "state": "Missouri",
+        "search": "Chesterfield, MO - Ferguson, MO - St Charles, MO - Belleville, IL - Columbia, MO - Jefferson city, MO - O'Fallon, MO - St. Joseph, MO - "
+    },
+    {
+        "id": "TAM",
+        "value": "Tampa",
+        "coordinates": {
+            "latitude": 27.9506,
+            "longitude": -82.4572
+        },
+        "city": "tampa",
+        "state": "Florida",
+        "search": "Tampa, FL - St. Petersburg, FL - Clearwater, FL - Sarasota, FL - Bradenton, FL - Fort Myers, FL - Ft. Myers, FL"
+    },
+    {
+        "id": "TWI",
+        "value": "Twin Cities",
+        "coordinates": {
+            "latitude": 44.9778,
+            "longitude": -93.265
+        },
+        "city": "minneapolis",
+        "state": "Minnesota",
+        "search": "St. Paul, MN - Rochester, MN - Duluth, MN - Bloomington, MN - Brooklyn Park, MN - Plymouth, MN -  Maple Grove, MN"
+    },
+    {
+        "id": "UPS",
+        "value": "Upstate New York",
+        "coordinates": {
+            "latitude": 42.8864,
+            "longitude": -78.8784
+        },
+        "city": "Buffalo",
+        "state": "New York",
+        "search": "Buffalo, NY - Syracuse, NY - Rochester, NY - Albany, NY"
+    },
+    {
+        "id": "UTA",
+        "value": "Utah",
+        "coordinates": {
+            "latitude": 40.7608,
+            "longitude": -111.891
+        },
+        "city": "Salt Lake city",
+        "state": "Utah",
+        "search": "Salt Lake city, UT - West Valley city, UT - Provo, UT - West Jordan, UT - Sandy, UT - Orem, UT"
+    },
+    {
+        "id": "VER",
+        "value": "Vermont",
+        "coordinates": {
+            "latitude": 44.4759,
+            "longitude": -73.2121
+        },
+        "city": "Burlington",
+        "state": "Vermont",
+        "search": "Vermont -  Burlington, VT"
+    },
+    {
+        "id": "WAS",
+        "value": "Washington D.C.",
+        "coordinates": {
+            "latitude": 38.9072,
+            "longitude": -77.0369
+        },
+        "city": "Washington DC",
+        "state": "Maryland",
+        "search": "Washington D.C. - DC - Washington DC - Arlington, VA - Alexandria, VA - Fairfax, VA - Silver Spring, MD - Frederick, MD"
+    },
+    {
+        "id": "WES",
+        "value": "West Virginia",
+        "coordinates": {
+            "latitude": 38.3498,
+            "longitude": -81.6326
+        },
+        "city": "Charleston",
+        "state": "West Virginia",
+        "search": "Huntington, WV"
+    },
+    {
+        "id": "WYO",
+        "value": "Wyoming",
+        "coordinates": {
+            "latitude": 41.14,
+            "longitude": -104.8202
+        },
+        "city": "Cheyenne",
+        "state": "Wyoming",
+        "search": "Cheyenne, WY - Casper, WY - Laramie, WY"
+    }
+]

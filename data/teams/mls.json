@@ -1,0 +1,164 @@
+[
+    {
+        "team": "Atlanta United FC",
+        "id": "mlsatl",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/5475/thumbs/547573932017.gif"
+    },
+    {
+        "team": "Austin FC",
+        "id": "mlsaus",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/6663/thumbs/666340662021.gif"
+    },
+    {
+        "team": "Chicago Fire",
+        "id": "mlschi",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/323/thumbs/32325092020.gif"
+    },
+    {
+        "team": "Colorado Rapids",
+        "id": "mlscol",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/328/thumbs/rkjf0o1eifa47lh6uhy4oj5qy.gif"
+    },
+    {
+        "team": "Columbus Crew SC",
+        "id": "mlsccs",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/324/thumbs/32410022015.gif"
+    },
+    {
+        "team": "D.C. United",
+        "id": "mlsdc",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/325/thumbs/32590012016.gif"
+    },
+    {
+        "team": "FC Dallas",
+        "id": "mlsdal",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/329/thumbs/97yz6vcggd25lhyswy2fgvhfz.gif"
+    },
+    {
+        "team": "FC Cincinnati",
+        "id": "mlscin",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/6623/thumbs/662385652019.gif"
+    },
+    {
+        "team": "Houston Dynamo",
+        "id": "mlshou",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/1482/thumbs/h8ga63uac257c37js2m47hqke.gif"
+    },
+    {
+        "team": "Inter Miami C.F.",
+        "id": "mlsmia",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/6621/thumbs/662175592020.gif"
+    },
+    {
+        "team": "LA Galaxy",
+        "id": "mlslag",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/331/thumbs/wcwwzw1ysgmdcgkguwof.gif"
+    },
+    {
+        "team": "Los Angeles FC",
+        "id": "mlslafc",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/5480/thumbs/548055242018.gif"
+    },
+    {
+        "team": "Minnesota United FC",
+        "id": "mlsmin",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/6288/thumbs/628827592017.gif"
+    },
+    {
+        "team": "Montreal Impact",
+        "id": "mlsmon",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/2837/thumbs/ugsnhv0oteegw8sjs3e4wivvg.gif"
+    },
+    {
+        "team": "Nashville SC",
+        "id": "mlsnas",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/6672/thumbs/667287472020.gif"
+    },
+    {
+        "team": "New England Revolution",
+        "id": "mlsne",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/327/thumbs/32748292009.gif"
+    },
+    {
+        "team": "New York Red Bulls",
+        "id": "mlsnyrb",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/1876/thumbs/i9ni847kriagxdlb7xewa6dl8.gif"
+    },
+    {
+        "team": "New York City FC",
+        "id": "mlsnyc",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/5119/thumbs/511960002015.gif"
+    },
+    {
+        "team": "Orlando City SC",
+        "id": "mlsorl",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/5135/thumbs/513564862015.gif"
+    },
+    {
+        "team": "Philadelphia Union",
+        "id": "mlsphi",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/2761/thumbs/276142122018.gif"
+    },
+    {
+        "team": "Portland Timbers",
+        "id": "mlspor",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/2836/thumbs/283668012019.gif"
+    },
+    {
+        "team": "Real Salt Lake",
+        "id": "mlsrsl",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/394/thumbs/39489852010.gif"
+    },
+    {
+        "team": "San Jose Earthquakes",
+        "id": "mlssj",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/332/thumbs/33279522014.gif"
+    },
+    {
+        "team": "Seattle Sounders FC",
+        "id": "mlssea",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/2760/thumbs/2xkgg8fsj5zgywdhx5in779ed.gif"
+    },
+    {
+        "team": "Sporting Kansas City",
+        "id": "mlskc",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/2834/thumbs/hzgsk662crxwpeffygd9vazda.gif"
+    },
+    {
+        "team": "Toronto FC",
+        "id": "mlstor",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/1249/thumbs/124929902010.gif"
+    },
+    {
+        "team": "Vancouver Whitecaps FC",
+        "id": "mlsvan",
+        "league": "MLS",
+        "logo": "https://content.sportslogos.net/logos/9/2835/thumbs/vk6eh75qeug9nejz5g4k1evlo.gif"
+    }
+]

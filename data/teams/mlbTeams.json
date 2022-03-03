@@ -1,0 +1,182 @@
+[
+    {
+        "team": "Arizona Diamondbacks",
+        "id": "mlbari",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/7/1/8/267947718/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Atlanta Braves",
+        "id": "mlbatl",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/2/0/8/267951208/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Baltimore Orioles",
+        "id": "mlbbal",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/0/8/2/267952082/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Boston Red Sox",
+        "id": "mlbbos",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/2/8/8/267952288/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Chicago Cubs",
+        "id": "mlbchc",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/7/1/2/267951712/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Chicago White Sox",
+        "id": "mlbchw",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/2/9/0/267952290/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Cincinnati Reds",
+        "id": "mlbcin",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/7/2/2/267951722/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Cleveland Indians",
+        "id": "mlbcle",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/2/9/4/267952294/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Colorado Rockies",
+        "id": "mlbcol",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/7/2/4/267951724/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Detroit Tigers",
+        "id": "mlbdet",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/1/9/8/267952198/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Houston Astros",
+        "id": "mlbhou",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/3/0/6/267952306/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Kansas City Royals",
+        "id": "mlbkan",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/3/0/8/267952308/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Los Angeles Dodgers",
+        "id": "mlblad",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/7/2/8/267951728/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Los Angeles Angels of Anaheim",
+        "id": "mlblaa",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/3/1/2/267952312/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Miami Marlins",
+        "id": "mlbmia",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/6/7/2/300788672/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Milwaukee Brewers",
+        "id": "mlbmil",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/4/6/8/311913468/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Minnesota Twins",
+        "id": "mlbmin",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/4/1/2/267952412/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "New York Mets",
+        "id": "mlbnym",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/5/5/6/267951556/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "New York Yankees",
+        "id": "mlbnyy",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/4/2/0/267952420/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Oakland Athletics",
+        "id": "mlboak",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/5/2/0/267952520/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Philadelphia Phillies",
+        "id": "mlbphi",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/8/6/0/267951860/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Pittsburgh Pirates",
+        "id": "mlbpit",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/9/6/2/267951962/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "San Diego Padres",
+        "id": "mlbsd",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/2/3/8/311858238/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "San Francisco Giants",
+        "id": "mlbsf",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/9/7/0/267951970/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Seattle Mariners",
+        "id": "mlbsea",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/4/9/6/267952496/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "St. Louis Cardinals",
+        "id": "mlbstl",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/2/4/6/311858246/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Tampa Bay Rays",
+        "id": "mlbtb",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/4/2/8/267952428/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Texas Rangers",
+        "id": "mlbtex",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/4/3/2/267952432/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Toronto Blue Jays",
+        "id": "mlbtor",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/5/3/2/267952532/cuts/568x320/cut.jpg"
+    },
+    {
+        "team": "Washington Nationals",
+        "id": "mlbwas",
+        "league": "MLB",
+        "logo": "https://securea.mlb.com/assets/images/8/7/6/267951876/cuts/568x320/cut.jpg"
+    }
+]

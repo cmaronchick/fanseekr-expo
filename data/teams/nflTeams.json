@@ -1,0 +1,240 @@
+[
+    {
+        "id": "nflari",
+        "name": "Arizona Cardinals",
+        "league": "NFL",
+        "api_id": "ARI",
+        "isSelected": true
+    },
+    {
+        "id": "nflatl",
+        "name": "Atlanta Falcons",
+        "league": "NFL",
+        "api_id": "ATL",
+        "isSelected": true
+    },
+    {
+        "id": "nflbal",
+        "name": "Baltimore Ravens",
+        "league": "NFL",
+        "api_id": "BAL",
+        "isSelected": true
+    },
+    {
+        "id": "nflbuf",
+        "name": "Buffalo Bills",
+        "league": "NFL",
+        "api_id": "BUF",
+        "isSelected": false
+    },
+    {
+        "id": "nflcar",
+        "name": "Carolina Panthers",
+        "league": "NFL",
+        "api_id": "CAR",
+        "isSelected": false
+    },
+    {
+        "id": "nflchi",
+        "name": "Chicago Bears",
+        "league": "NFL",
+        "api_id": "CHI",
+        "isSelected": false
+    },
+    {
+        "id": "nflcin",
+        "name": "Cincinnati Bengals",
+        "league": "NFL",
+        "api_id": "CIN",
+        "isSelected": false
+    },
+    {
+        "id": "nflcle",
+        "name": "Cleveland Browns",
+        "league": "NFL",
+        "api_id": "CLE",
+        "isSelected": false
+    },
+    {
+        "id": "nfldal",
+        "name": "Dallas Cowboys",
+        "league": "NFL",
+        "api_id": "DAL",
+        "isSelected": false
+    },
+    {
+        "id": "nflden",
+        "name": "Denver Broncos",
+        "league": "NFL",
+        "api_id": "DEN",
+        "isSelected": false
+    },
+    {
+        "id": "nfldet",
+        "name": "Detroit Lions",
+        "league": "NFL",
+        "api_id": "DET",
+        "isSelected": false
+    },
+    {
+        "id": "nflgb",
+        "name": "Green Bay Packers",
+        "league": "NFL",
+        "api_id": "GB",
+        "isSelected": false
+    },
+    {
+        "id": "nflhou",
+        "name": "Houston Texans",
+        "league": "NFL",
+        "api_id": "HOU",
+        "isSelected": false
+    },
+    {
+        "id": "nflind",
+        "name": "Indianapolis Colts",
+        "league": "NFL",
+        "api_id": "IND",
+        "isSelected": false
+    },
+    {
+        "id": "nfljax",
+        "name": "Jacksonville Jaguars",
+        "league": "NFL",
+        "api_id": "JAX",
+        "isSelected": false
+    },
+    {
+        "id": "nflkc",
+        "name": "Kansas City Chiefs ",
+        "league": "NFL",
+        "api_id": "KC",
+        "isSelected": false
+    },
+    {
+        "id": "nfllac",
+        "name": "Los Angeles Chargers",
+        "league": "NFL",
+        "api_id": "LAC",
+        "isSelected": false
+    },
+    {
+        "id": "nfllar",
+        "name": "Los Angeles Rams",
+        "league": "NFL",
+        "api_id": "LAR",
+        "isSelected": false
+    },
+    {
+        "id": "nflmia",
+        "name": "Miami Dolphins",
+        "league": "NFL",
+        "api_id": "MIA",
+        "isSelected": false
+    },
+    {
+        "id": "nflmin",
+        "name": "Minnesota Vikings",
+        "league": "NFL",
+        "api_id": "MIN",
+        "isSelected": false
+    },
+    {
+        "id": "nflne",
+        "name": "New England Patriots",
+        "league": "NFL",
+        "api_id": "NE",
+        "isSelected": false
+    },
+    {
+        "id": "nflno",
+        "name": "New Orleans Saints",
+        "league": "NFL",
+        "api_id": "NO",
+        "isSelected": false
+    },
+    {
+        "id": "nflnyg",
+        "name": "New York Giants",
+        "league": "NFL",
+        "api_id": "NYG",
+        "isSelected": false
+    },
+    {
+        "id": "nflnyj",
+        "name": "New York Jets",
+        "league": "NFL",
+        "api_id": "NYJ",
+        "isSelected": false
+    },
+    {
+        "id": "nfloak",
+        "name": "Oakland Raiders",
+        "league": "NFL",
+        "api_id": "OAK",
+        "isSelected": false
+    },
+    {
+        "id": "nflphi",
+        "name": "Philadelphia Eagles",
+        "league": "NFL",
+        "api_id": "PHI",
+        "isSelected": false
+    },
+    {
+        "id": "nflpit",
+        "name": "Pittsburgh Steelers",
+        "league": "NFL",
+        "api_id": "PIT",
+        "isSelected": false
+    },
+    {
+        "id": "nflsea",
+        "name": "Seattle Seahawks",
+        "league": "NFL",
+        "api_id": "SEA",
+        "isSelected": false
+    },
+    {
+        "id": "nflsf",
+        "name": "San Fransisco 49ers",
+        "league": "NFL",
+        "api_id": "SF",
+        "isSelected": false
+    },
+    {
+        "id": "nfltb",
+        "name": "Tampa Bay Buccaneers ",
+        "league": "NFL",
+        "api_id": "TB",
+        "isSelected": false
+    },
+    {
+        "id": "nflten",
+        "name": "Tennessee Titans ",
+        "league": "NFL",
+        "api_id": "TEN",
+        "isSelected": false
+    },
+    {
+        "id": "nflwas",
+        "name": "Washington Redskins",
+        "league": "NFL",
+        "api_id": "WAS",
+        "isSelected": false
+    }
+]
+//Import teams:
+// nflTeams.forEach(e => {
+//     firestore().collection('teams').doc(e.id).set({
+//         name: e.name,
+//         league: "NFL",
+//         api_id: e.api_id
+//     })
+//         .then(function () {
+//             console.log("Document successfully written!");
+//         })
+//         .catch(function (error) {
+//             console.error("Error writing document: ", error);
+//         });
+// })
